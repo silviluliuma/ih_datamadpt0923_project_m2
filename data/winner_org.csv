@@ -1,0 +1,1104 @@
+,Laureate_ID,Full_Name,Birth_Date,Sex,Organization_Name,Organization_Country,Organization_City,Organization
+0,160,Jacobus Henricus van 't Hoff,1852-08-30,Male,Berlin University,Germany,Berlin,1
+1,569,Sully Prudhomme,1839-03-16,Male,,,,0
+2,293,Emil Adolf von Behring,1854-03-15,Male,Marburg University,Germany,Marburg,1
+3,462,Jean Henry Dunant,1828-05-08,Male,,,,0
+4,463,Frédéric Passy,1822-05-20,Male,,,,0
+5,1,Wilhelm Conrad Röntgen,1845-03-27,Male,Munich University,Germany,Munich,1
+6,161,Hermann Emil Fischer,1852-10-09,Male,Berlin University,Germany,Berlin,1
+7,571,Christian Matthias Theodor Mommsen,1817-11-30,Male,,,,0
+8,294,Ronald Ross,1857-05-13,Male,University College,United Kingdom,Liverpool,1
+9,464,Élie Ducommun,1833-02-19,Male,,,,0
+10,465,Charles Albert Gobat,1843-05-21,Male,,,,0
+11,2,Hendrik Antoon Lorentz,1853-07-18,Male,Leiden University,Netherlands,Leiden,1
+12,3,Pieter Zeeman,1865-05-25,Male,Amsterdam University,Netherlands,Amsterdam,1
+13,162,Svante August Arrhenius,1859-02-19,Male,Stockholm University,Sweden,Stockholm,1
+14,572,Bjørnstjerne Martinus Bjørnson,1832-12-08,Male,,,,0
+15,295,Niels Ryberg Finsen,1860-12-15,Male,Finsen Medical Light Institute,Denmark,Copenhagen,1
+16,466,William Randal Cremer,1828-03-18,Male,,,,0
+17,4,Antoine Henri Becquerel,1852-12-15,Male,École Polytechnique,France,Paris,1
+18,5,Pierre Curie,1859-05-15,Male,École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry),France,Paris,1
+19,6,"Marie Curie, née Sklodowska",1867-11-07,Female,,,,0
+20,6,"Marie Curie, née Sklodowska",1867-11-07,Female,Sorbonne University,France,Paris,1
+21,163,Sir William Ramsay,1852-10-02,Male,University College,United Kingdom,London,1
+22,573,Frédéric Mistral,1830-09-08,Male,,,,0
+23,574,José Echegaray y Eizaguirre,1832-04-19,Male,,,,0
+24,296,Ivan Petrovich Pavlov,1849-09-14,Male,Military Medical Academy,Russia,St. Petersburg,1
+25,467,Institut de droit international (Institute of International Law),,,,,,0
+26,8,Lord Rayleigh (John William Strutt),1842-11-12,Male,Royal Institution of Great Britain,United Kingdom,London,1
+27,164,Johann Friedrich Wilhelm Adolf von Baeyer,1835-10-31,Male,Munich University,Germany,Munich,1
+28,575,Henryk Sienkiewicz,1846-05-05,Male,,,,0
+29,297,Robert Koch,1843-12-11,Male,Institute for Infectious Diseases,Germany,Berlin,1
+30,468,"Baroness Bertha Sophie Felicita von Suttner, née Countess Kinsky von Chinic und Tettau",1843-06-09,Female,,,,0
+31,9,Philipp Eduard Anton von Lenard,1862-06-07,Male,Kiel University,Germany,Kiel,1
+32,165,Henri Moissan,1852-09-28,Male,Sorbonne University,France,Paris,1
+33,576,Giosuè Carducci,1835-07-27,Male,,,,0
+34,298,Camillo Golgi,1843-07-07,Male,Pavia University,Italy,Pavia,1
+35,299,Santiago Ramón y Cajal,1852-05-01,Male,Madrid University,Spain,Madrid,1
+36,470,Theodore Roosevelt,1858-10-27,Male,,,,0
+37,10,Joseph John Thomson,1856-12-18,Male,University of Cambridge,United Kingdom,Cambridge,1
+38,166,Eduard Buchner,1860-05-20,Male,Landwirtschaftliche Hochschule (Agricultural College),Germany,Berlin,1
+39,577,Rudyard Kipling,1865-12-30,Male,,,,0
+40,300,Charles Louis Alphonse Laveran,1845-06-18,Male,Institut Pasteur,France,Paris,1
+41,471,Ernesto Teodoro Moneta,1833-09-20,Male,,,,0
+42,472,Louis Renault,1843-05-21,Male,Sorbonne University,France,Paris,1
+43,11,Albert Abraham Michelson,1852-12-19,Male,University of Chicago,United States of America,"Chicago, IL",1
+44,167,Ernest Rutherford,1871-08-30,Male,Victoria University,United Kingdom,Manchester,1
+45,578,Rudolf Christoph Eucken,1846-01-05,Male,,,,0
+46,301,Ilya Ilyich Mechnikov,1845-05-15,Male,Institut Pasteur,France,Paris,1
+47,302,Paul Ehrlich,1854-03-14,Male,Goettingen University,Germany,Göttingen,1
+48,302,Paul Ehrlich,1854-03-14,Male,Königliches Institut für experimentelle Therapie (Royal Institute for Experimental Therapy),Germany,Frankfurt-on-the-Main,1
+49,302,Paul Ehrlich,1854-03-14,Male,Goettingen University,Germany,Göttingen,1
+50,302,Paul Ehrlich,1854-03-14,Male,Königliches Institut für experimentelle Therapie (Royal Institute for Experimental Therapy),Germany,Frankfurt-on-the-Main,1
+51,473,Klas Pontus Arnoldson,1844-10-27,Male,,,,0
+52,474,Fredrik Bajer,1837-04-21,Male,,,,0
+53,12,Gabriel Lippmann,1845-08-16,Male,Sorbonne University,France,Paris,1
+54,168,Wilhelm Ostwald,1853-09-02,Male,Leipzig University,Germany,Leipzig,1
+55,579,Selma Ottilia Lovisa Lagerlöf,1858-11-20,Female,,,,0
+56,303,Emil Theodor Kocher,1841-08-25,Male,Berne University,Switzerland,Berne,1
+57,475,Auguste Marie François Beernaert,1829-07-26,Male,,,,0
+58,476,"Paul Henri Benjamin Balluet d'Estournelles de Constant, Baron de Constant de Rebecque",1852-11-22,Male,,,,0
+59,13,Guglielmo Marconi,1874-04-25,Male,Marconi Wireless Telegraph Co. Ltd.,United Kingdom,London,1
+60,14,Karl Ferdinand Braun,1850-06-06,Male,Strasbourg University,"Alsace (then Germany, now France)",Strasbourg,1
+61,169,Otto Wallach,1847-03-27,Male,Goettingen University,Germany,Göttingen,1
+62,580,Paul Johann Ludwig Heyse,1830-03-15,Male,,,,0
+63,304,Albrecht Kossel,1853-09-16,Male,University of Heidelberg,Germany,Heidelberg,1
+64,477,Bureau international permanent de la Paix (Permanent International Peace Bureau),,,,,,0
+65,15,Johannes Diderik van der Waals,1837-11-23,Male,Amsterdam University,Netherlands,Amsterdam,1
+66,6,"Marie Curie, née Sklodowska",1867-11-07,Female,,,,0
+67,6,"Marie Curie, née Sklodowska",1867-11-07,Female,Sorbonne University,France,Paris,1
+68,581,Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck,1862-08-29,Male,,,,0
+69,305,Allvar Gullstrand,1862-06-05,Male,Uppsala University,Sweden,Uppsala,1
+70,478,Tobias Michael Carel Asser,1838-04-28,Male,,,,0
+71,479,Alfred Hermann Fried,1864-11-11,Male,,,,0
+72,16,Wilhelm Wien,1864-01-13,Male,Würzburg University,Germany,Würzburg,1
+73,172,Victor Grignard,1871-05-06,Male,Nancy University,France,Nancy,1
+74,173,Paul Sabatier,1854-11-05,Male,Toulouse University,France,Toulouse,1
+75,582,Gerhart Johann Robert Hauptmann,1862-11-15,Male,,,,0
+76,306,Alexis Carrel,1873-06-28,Male,Rockefeller Institute for Medical Research,United States of America,"New York, NY",1
+77,480,Elihu Root,1845-02-15,Male,,,,0
+78,17,Nils Gustaf Dalén,1869-11-30,Male,Swedish Gas-Accumulator Co.,Sweden,Lidingö-Stockholm,1
+79,174,Alfred Werner,1866-12-12,Male,University of Zurich,Switzerland,Zurich,1
+80,583,Rabindranath Tagore,1861-05-07,Male,,,,0
+81,307,Charles Robert Richet,1850-08-26,Male,Sorbonne University,France,Paris,1
+82,481,Henri La Fontaine,1854-04-22,Male,,,,0
+83,18,Heike Kamerlingh Onnes,1853-09-21,Male,Leiden University,Netherlands,Leiden,1
+84,175,Theodore William Richards,1868-01-31,Male,Harvard University,United States of America,"Cambridge, MA",1
+85,308,Robert Bárány,1876-04-22,Male,Vienna University,Austria,Vienna,1
+86,19,Max von Laue,1879-10-09,Male,Frankfurt-on-the-Main University,Germany,Frankfurt-on-the-Main,1
+87,176,Richard Martin Willstätter,1872-08-13,Male,Munich University,Germany,Munich,1
+88,584,Romain Rolland,1866-01-29,Male,,,,0
+89,20,Sir William Henry Bragg,1862-07-02,Male,University College,United Kingdom,London,1
+90,21,William Lawrence Bragg,1890-03-31,Male,Victoria University,United Kingdom,Manchester,1
+91,585,Carl Gustaf Verner von Heidenstam,1859-07-06,Male,,,,0
+92,586,Karl Adolph Gjellerup,1857-06-02,Male,,,,0
+93,587,Henrik Pontoppidan,1857-07-24,Male,,,,0
+94,482,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,0
+95,482,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,0
+96,482,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,0
+97,22,Charles Glover Barkla,1877-06-07,Male,Edinburgh University,United Kingdom,Edinburgh,1
+98,177,Fritz Haber,1868-12-09,Male,Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie,Germany,Berlin-Dahlem,1
+99,23,Max Karl Ernst Ludwig Planck,1858-04-23,Male,Berlin University,Germany,Berlin,1
+100,588,Carl Friedrich Georg Spitteler,1845-04-24,Male,,,,0
+101,309,Jules Bordet,1870-06-13,Male,Brussels University,Belgium,Brussels,1
+102,483,Thomas Woodrow Wilson,1856-12-28,Male,,,,0
+103,24,Johannes Stark,1874-04-15,Male,Greifswald University,Germany,Greifswald,1
+104,178,Walther Hermann Nernst,1864-06-25,Male,Berlin University,Germany,Berlin,1
+105,589,Knut Pedersen Hamsun,1859-08-04,Male,,,,0
+106,310,Schack August Steenberg Krogh,1874-11-15,Male,Copenhagen University,Denmark,Copenhagen,1
+107,484,Léon Victor Auguste Bourgeois,1851-05-21,Male,,,,0
+108,25,Charles Edouard Guillaume,1861-02-15,Male,Bureau International des Poids et Mesures (International Bureau of Weights and Measures),France,Sèvres,1
+109,179,Frederick Soddy,1877-09-02,Male,University of Oxford,United Kingdom,Oxford,1
+110,590,Anatole France,1844-04-16,Male,,,,0
+111,485,Karl Hjalmar Branting,1860-11-23,Male,,,,0
+112,486,Christian Lous Lange,1869-09-17,Male,,,,0
+113,26,Albert Einstein,1879-03-14,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Germany,Berlin,1
+114,180,Francis William Aston,1877-09-01,Male,University of Cambridge,United Kingdom,Cambridge,1
+115,592,Jacinto Benavente,1866-08-12,Male,,,,0
+116,311,Archibald Vivian Hill,1886-09-26,Male,London University,United Kingdom,London,1
+117,312,Otto Fritz Meyerhof,1884-04-12,Male,Kiel University,Germany,Kiel,1
+118,487,Fridtjof Nansen,1861-10-10,Male,,,,0
+119,27,Niels Henrik David Bohr,1885-10-07,Male,Copenhagen University,Denmark,Copenhagen,1
+120,181,Fritz Pregl,1869-09-03,Male,Graz University,Austria,Graz,1
+121,593,William Butler Yeats,1865-06-13,Male,,,,0
+122,313,Frederick Grant Banting,1891-11-14,Male,University of Toronto,Canada,Toronto,1
+123,314,John James Rickard Macleod,1876-09-06,Male,University of Toronto,Canada,Toronto,1
+124,28,Robert Andrews Millikan,1868-03-22,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+125,594,Wladyslaw Stanislaw Reymont,1867-05-07,Male,,,,0
+126,315,Willem Einthoven,1860-05-21,Male,Leiden University,Netherlands,Leiden,1
+127,29,Karl Manne Georg Siegbahn,1886-12-03,Male,Uppsala University,Sweden,Uppsala,1
+128,182,Richard Adolf Zsigmondy,1865-04-01,Male,Goettingen University,Germany,Göttingen,1
+129,596,George Bernard Shaw,1856-07-26,Male,,,,0
+130,488,Sir Austen Chamberlain,1863-10-16,Male,,,,0
+131,489,Charles Gates Dawes,1865-08-27,Male,,,,0
+132,30,James Franck,1882-08-26,Male,Goettingen University,Germany,Göttingen,1
+133,31,Gustav Ludwig Hertz,1887-07-22,Male,Halle University,Germany,Halle,1
+134,183,The (Theodor) Svedberg,1884-08-30,Male,Uppsala University,Sweden,Uppsala,1
+135,597,Grazia Deledda,1871-09-27,Female,,,,0
+136,316,Johannes Andreas Grib Fibiger,1867-04-23,Male,Copenhagen University,Denmark,Copenhagen,1
+137,490,Aristide Briand,1862-03-28,Male,,,,0
+138,491,Gustav Stresemann,1878-05-10,Male,,,,0
+139,32,Jean Baptiste Perrin,1870-09-30,Male,Sorbonne University,France,Paris,1
+140,184,Heinrich Otto Wieland,1877-06-04,Male,Munich University,Germany,Munich,1
+141,600,Henri Bergson,1859-10-18,Male,,,,0
+142,317,Julius Wagner-Jauregg,1857-03-07,Male,Vienna University,Austria,Vienna,1
+143,492,Ferdinand Buisson,1841-12-20,Male,,,,0
+144,493,Ludwig Quidde,1858-03-23,Male,,,,0
+145,33,Arthur Holly Compton,1892-09-10,Male,University of Chicago,United States of America,"Chicago, IL",1
+146,34,Charles Thomson Rees Wilson,1869-02-14,Male,University of Cambridge,United Kingdom,Cambridge,1
+147,185,Adolf Otto Reinhold Windaus,1876-12-25,Male,Goettingen University,Germany,Göttingen,1
+148,601,Sigrid Undset,1882-05-20,Female,,,,0
+149,318,Charles Jules Henri Nicolle,1866-09-21,Male,Institut Pasteur,,Tunis,1
+150,35,Owen Willans Richardson,1879-04-26,Male,London University,United Kingdom,London,1
+151,186,Arthur Harden,1865-10-12,Male,London University,United Kingdom,London,1
+152,187,Hans Karl August Simon von Euler-Chelpin,1873-02-15,Male,Stockholm University,Sweden,Stockholm,1
+153,602,Thomas Mann,1875-06-06,Male,,,,0
+154,319,Christiaan Eijkman,1858-08-11,Male,Utrecht University,Netherlands,Utrecht,1
+155,320,Sir Frederick Gowland Hopkins,1861-06-20,Male,University of Cambridge,United Kingdom,Cambridge,1
+156,494,Frank Billings Kellogg,1856-12-22,Male,,,,0
+157,36,Prince Louis-Victor Pierre Raymond de Broglie,1892-08-15,Male,"Sorbonne University, Institut Henri Poincaré",France,Paris,1
+158,188,Hans Fischer,1881-07-27,Male,Technische Hochschule (Institute of Technology),Germany,Munich,1
+159,603,Sinclair Lewis,1885-02-07,Male,,,,0
+160,321,Karl Landsteiner,1868-06-14,Male,Rockefeller Institute for Medical Research,United States of America,"New York, NY",1
+161,495,Lars Olof Jonathan (Nathan) Söderblom,1866-01-15,Male,,,,0
+162,37,Sir Chandrasekhara Venkata Raman,1888-11-07,Male,Calcutta University,India,Calcutta,1
+163,189,Carl Bosch,1874-08-27,Male,University of Heidelberg,Germany,Heidelberg,1
+164,189,Carl Bosch,1874-08-27,Male,I.G. Farbenindustrie A.G.,Germany,Heidelberg,1
+165,189,Carl Bosch,1874-08-27,Male,University of Heidelberg,Germany,Heidelberg,1
+166,189,Carl Bosch,1874-08-27,Male,I.G. Farbenindustrie A.G.,Germany,Heidelberg,1
+167,190,Friedrich Bergius,1884-10-11,Male,University of Heidelberg,Germany,Heidelberg,1
+168,190,Friedrich Bergius,1884-10-11,Male,I.G. Farbenindustrie A.G.,Germany,Mannheim-Rheinau,1
+169,190,Friedrich Bergius,1884-10-11,Male,University of Heidelberg,Germany,Heidelberg,1
+170,190,Friedrich Bergius,1884-10-11,Male,I.G. Farbenindustrie A.G.,Germany,Mannheim-Rheinau,1
+171,604,Erik Axel Karlfeldt,1864-07-20,Male,,,,0
+172,322,Otto Heinrich Warburg,1883-10-08,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie,Germany,Berlin-Dahlem,1
+173,496,Jane Addams,1860-09-06,Female,,,,0
+174,497,Nicholas Murray Butler,1862-04-02,Male,Columbia University,United States of America,"New York, NY",1
+175,191,Irving Langmuir,1881-01-31,Male,General Electric Company,United States of America,"Schenectady, NY",1
+176,605,John Galsworthy,1867-08-14,Male,,,,0
+177,323,Sir Charles Scott Sherrington,1857-11-27,Male,University of Oxford,United Kingdom,Oxford,1
+178,324,Edgar Douglas Adrian,1889-11-30,Male,University of Cambridge,United Kingdom,Cambridge,1
+179,38,Werner Karl Heisenberg,1901-12-05,Male,Leipzig University,Germany,Leipzig,1
+180,606,Ivan Alekseyevich Bunin,1870-10-22,Male,,,,0
+181,325,Thomas Hunt Morgan,1866-09-25,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+182,498,Sir Norman Angell (Ralph Lane),1872-12-26,Male,,,,0
+183,39,Erwin Schrödinger,1887-08-12,Male,Berlin University,Germany,Berlin,1
+184,40,Paul Adrien Maurice Dirac,1902-08-08,Male,University of Cambridge,United Kingdom,Cambridge,1
+185,192,Harold Clayton Urey,1893-04-29,Male,Columbia University,United States of America,"New York, NY",1
+186,607,Luigi Pirandello,1867-06-28,Male,,,,0
+187,326,George Hoyt Whipple,1878-08-28,Male,University of Rochester,United States of America,"Rochester, NY",1
+188,327,George Richards Minot,1885-12-02,Male,Harvard University,United States of America,"Cambridge, MA",1
+189,328,William Parry Murphy,1892-02-06,Male,Harvard University,United States of America,"Cambridge, MA",1
+190,328,William Parry Murphy,1892-02-06,Male,Peter Brent Brigham Hospital,United States of America,"Boston, MA",1
+191,328,William Parry Murphy,1892-02-06,Male,Harvard University,United States of America,"Cambridge, MA",1
+192,328,William Parry Murphy,1892-02-06,Male,Peter Brent Brigham Hospital,United States of America,"Boston, MA",1
+193,499,Arthur Henderson,1863-09-13,Male,,,,0
+194,193,Frédéric Joliot,1900-03-19,Male,Institut du Radium,France,Paris,1
+195,194,Irène Joliot-Curie,1897-09-12,Female,Institut du Radium,France,Paris,1
+196,329,Hans Spemann,1869-06-27,Male,University of Freiburg im Breisgau,Germany,Breisgau,1
+197,500,Carl von Ossietzky,1889-10-03,Male,,,,0
+198,41,James Chadwick,1891-10-20,Male,Liverpool University,United Kingdom,Liverpool,1
+199,195,Petrus (Peter) Josephus Wilhelmus Debye,1884-03-24,Male,Berlin University,Germany,Berlin,1
+200,195,Petrus (Peter) Josephus Wilhelmus Debye,1884-03-24,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Germany,Berlin,1
+201,195,Petrus (Peter) Josephus Wilhelmus Debye,1884-03-24,Male,Berlin University,Germany,Berlin,1
+202,195,Petrus (Peter) Josephus Wilhelmus Debye,1884-03-24,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik,Germany,Berlin,1
+203,608,Eugene Gladstone O'Neill,1888-10-16,Male,,,,0
+204,330,Sir Henry Hallett Dale,1875-06-09,Male,National Institute for Medical Research,United Kingdom,London,1
+205,331,Otto Loewi,1873-06-03,Male,Graz University,Austria,Graz,1
+206,501,Carlos Saavedra Lamas,1878-11-01,Male,,,,0
+207,42,Victor Franz Hess,1883-06-24,Male,Innsbruck University,Austria,Innsbruck,1
+208,43,Carl David Anderson,1905-09-03,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+209,196,Walter Norman Haworth,1883-03-19,Male,Birmingham University,United Kingdom,Birmingham,1
+210,197,Paul Karrer,1889-04-21,Male,University of Zurich,Switzerland,Zurich,1
+211,609,Roger Martin du Gard,1881-03-23,Male,,,,0
+212,332,Albert von Szent-Györgyi Nagyrápolt,1893-09-16,Male,Szeged University,Hungary,Szeged,1
+213,502,"Cecil of Chelwood, Viscount (Lord Edgar Algernon Robert Gascoyne Cecil)",1864-09-14,Male,,,,0
+214,44,Clinton Joseph Davisson,1881-10-22,Male,Bell Telephone Laboratories,United States of America,"New York, NY",1
+215,45,George Paget Thomson,1892-05-03,Male,London University,United Kingdom,London,1
+216,198,Richard Kuhn,1900-12-03,Male,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung,Germany,Heidelberg,1
+217,198,Richard Kuhn,1900-12-03,Male,University of Heidelberg,Germany,Heidelberg,1
+218,198,Richard Kuhn,1900-12-03,Male,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung,Germany,Heidelberg,1
+219,198,Richard Kuhn,1900-12-03,Male,University of Heidelberg,Germany,Heidelberg,1
+220,610,Pearl Buck,1892-06-26,Female,,,,0
+221,333,Corneille Jean François Heymans,1892-03-28,Male,Ghent University,Belgium,Ghent,1
+222,503,Office international Nansen pour les Réfugiés (Nansen International Office for Refugees),,,,,,0
+223,46,Enrico Fermi,1901-09-29,Male,Rome University,Italy,Rome,1
+224,199,Adolf Friedrich Johann Butenandt,1903-03-24,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie,Germany,Berlin-Dahlem,1
+225,199,Adolf Friedrich Johann Butenandt,1903-03-24,Male,Berlin University,Germany,Berlin,1
+226,199,Adolf Friedrich Johann Butenandt,1903-03-24,Male,Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie,Germany,Berlin-Dahlem,1
+227,199,Adolf Friedrich Johann Butenandt,1903-03-24,Male,Berlin University,Germany,Berlin,1
+228,200,Leopold Ruzicka,1887-09-13,Male,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Switzerland,Zurich,1
+229,613,Frans Eemil Sillanpää,1888-09-16,Male,,,,0
+230,334,Gerhard Domagk,1895-10-30,Male,Munster University,Germany,Munster,1
+231,47,Ernest Orlando Lawrence,1901-08-08,Male,University of California,United States of America,"Berkeley, CA",1
+232,201,George de Hevesy,1885-08-01,Male,Stockholm University,Sweden,Stockholm,1
+233,335,Henrik Carl Peter Dam,1895-02-21,Male,Polytechnic Institute,Denmark,Copenhagen,1
+234,336,Edward Adelbert Doisy,1893-11-13,Male,Saint Louis University,United States of America,"St. Louis, MO",1
+235,48,Otto Stern,1888-02-17,Male,Carnegie Institute of Technology,United States of America,"Pittsburgh, PA",1
+236,202,Otto Hahn,1879-03-08,Male,Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie,Germany,Berlin-Dahlem,1
+237,614,Johannes Vilhelm Jensen,1873-01-20,Male,,,,0
+238,337,Joseph Erlanger,1874-01-05,Male,Washington University,United States of America,"St. Louis, MO",1
+239,338,Herbert Spencer Gasser,1888-07-05,Male,Rockefeller Institute for Medical Research,United States of America,"New York, NY",1
+240,482,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,0
+241,482,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,0
+242,482,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,0
+243,49,Isidor Isaac Rabi,1898-07-29,Male,Columbia University,United States of America,"New York, NY",1
+244,203,Artturi Ilmari Virtanen,1895-01-15,Male,University of Helsinki,Finland,Helsinki,1
+245,615,Gabriela Mistral,1889-04-07,Female,,,,0
+246,339,Sir Alexander Fleming,1881-08-06,Male,London University,United Kingdom,London,1
+247,340,Ernst Boris Chain,1906-06-19,Male,University of Oxford,United Kingdom,Oxford,1
+248,341,Sir Howard Walter Florey,1898-09-24,Male,University of Oxford,United Kingdom,Oxford,1
+249,505,Cordell Hull,1871-10-02,Male,,,,0
+250,50,Wolfgang Pauli,1900-04-25,Male,Princeton University,United States of America,"Princeton, NJ",1
+251,204,James Batcheller Sumner,1887-11-19,Male,Cornell University,United States of America,"Ithaca, NY",1
+252,205,John Howard Northrop,1891-07-05,Male,Rockefeller Institute for Medical Research,United States of America,"Princeton, NJ",1
+253,206,Wendell Meredith Stanley,1904-08-16,Male,Rockefeller Institute for Medical Research,United States of America,"Princeton, NJ",1
+254,617,Hermann Hesse,1877-07-02,Male,,,,0
+255,342,Hermann Joseph Muller,1890-12-21,Male,Indiana University,United States of America,"Bloomington, IN",1
+256,506,Emily Greene Balch,1867-01-08,Female,,,,0
+257,507,John Raleigh Mott,1865-05-25,Male,,,,0
+258,51,Percy Williams Bridgman,1882-04-21,Male,Harvard University,United States of America,"Cambridge, MA",1
+259,207,Sir Robert Robinson,1886-09-13,Male,University of Oxford,United Kingdom,Oxford,1
+260,618,André Paul Guillaume Gide,1869-11-22,Male,,,,0
+261,343,Carl Ferdinand Cori,1896-12-05,Male,Washington University,United States of America,"St. Louis, MO",1
+262,344,"Gerty Theresa Cori, née Radnitz",1896-08-15,Female,Washington University,United States of America,"St. Louis, MO",1
+263,345,Bernardo Alberto Houssay,1887-04-10,Male,Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine),Argentina,Buenos Aires,1
+264,508,Friends Service Council (The Quakers),,,,,,0
+265,509,American Friends Service Committee (The Quakers),,,,,,0
+266,52,Sir Edward Victor Appleton,1892-09-06,Male,Department of Scientific and Industrial Research,United Kingdom,London,1
+267,208,Arne Wilhelm Kaurin Tiselius,1902-08-10,Male,Uppsala University,Sweden,Uppsala,1
+268,619,Thomas Stearns Eliot,1888-09-26,Male,,,,0
+269,346,Paul Hermann Müller,1899-01-12,Male,Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.),Switzerland,Basel,1
+270,53,Patrick Maynard Stuart Blackett,1897-11-18,Male,Victoria University,United Kingdom,Manchester,1
+271,209,William Francis Giauque,1895-05-12,Male,University of California,United States of America,"Berkeley, CA",1
+272,620,William Faulkner,1897-09-25,Male,,,,0
+273,347,Walter Rudolf Hess,1881-03-17,Male,University of Zurich,Switzerland,Zurich,1
+274,348,Antonio Caetano de Abreu Freire Egas Moniz,1874-11-29,Male,University of Lisbon,Portugal,Lisbon,1
+275,348,Antonio Caetano de Abreu Freire Egas Moniz,1874-11-29,Male,Neurological Institute,Portugal,Lisbon,1
+276,348,Antonio Caetano de Abreu Freire Egas Moniz,1874-11-29,Male,University of Lisbon,Portugal,Lisbon,1
+277,348,Antonio Caetano de Abreu Freire Egas Moniz,1874-11-29,Male,Neurological Institute,Portugal,Lisbon,1
+278,510,Lord (John) Boyd Orr of Brechin,1880-09-23,Male,,,,0
+279,54,Hideki Yukawa,1907-01-23,Male,Kyoto Imperial University,Japan,Kyoto,1
+280,54,Hideki Yukawa,1907-01-23,Male,Columbia University,United States of America,"New York, NY",1
+281,54,Hideki Yukawa,1907-01-23,Male,Kyoto Imperial University,Japan,Kyoto,1
+282,54,Hideki Yukawa,1907-01-23,Male,Columbia University,United States of America,"New York, NY",1
+283,210,Otto Paul Hermann Diels,1876-01-23,Male,Kiel University,Federal Republic of Germany,Kiel,1
+284,211,Kurt Alder,1902-07-10,Male,Cologne University,Federal Republic of Germany,Cologne,1
+285,621,Earl (Bertrand Arthur William) Russell,1872-05-18,Male,,,,0
+286,349,Edward Calvin Kendall,1886-03-08,Male,Mayo Clinic,United States of America,"Rochester, MN",1
+287,350,Tadeus Reichstein,1897-07-20,Male,Basel University,Switzerland,Basel,1
+288,351,Philip Showalter Hench,1896-02-28,Male,Mayo Clinic,United States of America,"Rochester, MN",1
+289,511,Ralph Bunche,1904-08-07,Male,Harvard University,United States of America,"Cambridge, MA",1
+290,55,Cecil Frank Powell,1903-12-05,Male,Bristol University,United Kingdom,Bristol,1
+291,212,Edwin Mattison McMillan,1907-09-18,Male,University of California,United States of America,"Berkeley, CA",1
+292,213,Glenn Theodore Seaborg,1912-04-19,Male,University of California,United States of America,"Berkeley, CA",1
+293,622,Pär Fabian Lagerkvist,1891-05-23,Male,,,,0
+294,352,Max Theiler,1899-01-30,Male,"Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation",United States of America,"New York, NY",1
+295,512,Léon Jouhaux,1879-07-01,Male,,,,0
+296,56,Sir John Douglas Cockcroft,1897-05-27,Male,Atomic Energy Research Establishment,United Kingdom,"Harwell, Berkshire",1
+297,57,Ernest Thomas Sinton Walton,1903-10-06,Male,Trinity College,Ireland,Dublin,1
+298,214,Archer John Porter Martin,1910-03-01,Male,National Institute for Medical Research,United Kingdom,London,1
+299,215,Richard Laurence Millington Synge,1914-10-28,Male,Rowett Research Institute,United Kingdom,Bucksburn (Scotland),1
+300,623,François Mauriac,1885-10-11,Male,,,,0
+301,353,Selman Abraham Waksman,1888-07-22,Male,Rutgers University,United States of America,"New Brunswick, NJ",1
+302,513,Albert Schweitzer,1875-01-14,Male,,,,0
+303,58,Felix Bloch,1905-10-23,Male,Stanford University,United States of America,"Stanford, CA",1
+304,59,Edward Mills Purcell,1912-08-30,Male,Harvard University,United States of America,"Cambridge, MA",1
+305,216,Hermann Staudinger,1881-03-23,Male,University of Freiburg,Federal Republic of Germany,Breisgau,1
+306,216,Hermann Staudinger,1881-03-23,Male,"Staatliches Institut für makromolekulare Chemie (State Research Institute for Macromolecular Chemistry), Freiburg",Federal Republic of Germany,Breisgau,1
+307,216,Hermann Staudinger,1881-03-23,Male,University of Freiburg,Federal Republic of Germany,Breisgau,1
+308,216,Hermann Staudinger,1881-03-23,Male,"Staatliches Institut für makromolekulare Chemie (State Research Institute for Macromolecular Chemistry), Freiburg",Federal Republic of Germany,Breisgau,1
+309,624,Sir Winston Leonard Spencer Churchill,1874-11-30,Male,,,,0
+310,354,Hans Adolf Krebs,1900-08-25,Male,Sheffield University,United Kingdom,Sheffield,1
+311,355,Fritz Albert Lipmann,1899-06-12,Male,Harvard Medical School,United States of America,"Boston, MA",1
+312,355,Fritz Albert Lipmann,1899-06-12,Male,Massachusetts General Hospital,United States of America,"Boston, MA",1
+313,355,Fritz Albert Lipmann,1899-06-12,Male,Harvard Medical School,United States of America,"Boston, MA",1
+314,355,Fritz Albert Lipmann,1899-06-12,Male,Massachusetts General Hospital,United States of America,"Boston, MA",1
+315,514,George Catlett Marshall,1880-12-31,Male,,,,0
+316,60,Frits Zernike,1888-07-16,Male,Groningen University,Netherlands,Groningen,1
+317,217,Linus Carl Pauling,1901-02-28,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+318,217,Linus Carl Pauling,1901-02-28,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+319,625,Ernest Miller Hemingway,1899-07-21,Male,,,,0
+320,356,John Franklin Enders,1897-02-10,Male,Harvard Medical School,United States of America,"Boston, MA",1
+321,356,John Franklin Enders,1897-02-10,Male,"Research Division of Infectious Diseases, Children's Medical Center",United States of America,"Boston, MA",1
+322,356,John Franklin Enders,1897-02-10,Male,Harvard Medical School,United States of America,"Boston, MA",1
+323,356,John Franklin Enders,1897-02-10,Male,"Research Division of Infectious Diseases, Children's Medical Center",United States of America,"Boston, MA",1
+324,357,Thomas Huckle Weller,1915-06-15,Male,"Research Division of Infectious Diseases, Children's Medical Center",United States of America,"Boston, MA",1
+325,358,Frederick Chapman Robbins,1916-08-25,Male,Western Reserve University,United States of America,"Cleveland, OH",1
+326,515,Office of the United Nations High Commissioner for Refugees (UNHCR),,,,,,0
+327,515,Office of the United Nations High Commissioner for Refugees (UNHCR),,,,,,0
+328,61,Max Born,1882-12-11,Male,Edinburgh University,United Kingdom,Edinburgh,1
+329,62,Walther Bothe,1891-01-08,Male,University of Heidelberg,Federal Republic of Germany,Heidelberg,1
+330,62,Walther Bothe,1891-01-08,Male,Max-Planck-Institut für medizinische Forschung,Federal Republic of Germany,Heidelberg,1
+331,62,Walther Bothe,1891-01-08,Male,University of Heidelberg,Federal Republic of Germany,Heidelberg,1
+332,62,Walther Bothe,1891-01-08,Male,Max-Planck-Institut für medizinische Forschung,Federal Republic of Germany,Heidelberg,1
+333,218,Vincent du Vigneaud,1901-05-18,Male,Cornell University,United States of America,"Ithaca, NY",1
+334,626,Halldór Kiljan Laxness,1902-04-23,Male,,,,0
+335,359,Axel Hugo Theodor Theorell,1903-07-06,Male,"Karolinska Institutet, Nobel Medical Institute",Sweden,Stockholm,1
+336,63,Willis Eugene Lamb,1913-07-12,Male,Stanford University,United States of America,"Stanford, CA",1
+337,64,Polykarp Kusch,1911-01-26,Male,Columbia University,United States of America,"New York, NY",1
+338,219,Sir Cyril Norman Hinshelwood,1897-05-19,Male,University of Oxford,United Kingdom,Oxford,1
+339,220,Nikolay Nikolaevich Semenov,1896-04-03,Male,Institute for Chemical Physics of the Academy of Sciences of the USSR,Union of Soviet Socialist Republics,Moscow,1
+340,627,Juan Ramón Jiménez,1881-12-24,Male,,,,0
+341,360,André Frédéric Cournand,1895-09-24,Male,"Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital",United States of America,"New York, NY",1
+342,361,Werner Forssmann,1904-08-29,Male,Mainz University,Federal Republic of Germany,Mainz,1
+343,361,Werner Forssmann,1904-08-29,Male,,Federal Republic of Germany,Bad Kreuznach,0
+344,361,Werner Forssmann,1904-08-29,Male,Mainz University,Federal Republic of Germany,Mainz,1
+345,361,Werner Forssmann,1904-08-29,Male,,Federal Republic of Germany,Bad Kreuznach,0
+346,362,Dickinson W. Richards,1895-10-30,Male,Columbia University,United States of America,"New York, NY",1
+347,65,William Bradford Shockley,1910-02-13,Male,"Semiconductor Laboratory of Beckman Instruments, Inc.",United States of America,"Mountain View, CA",1
+348,66,John Bardeen,1908-05-23,Male,University of Illinois,United States of America,"Urbana, IL",1
+349,66,John Bardeen,1908-05-23,Male,University of Illinois,United States of America,"Urbana, IL",1
+350,67,Walter Houser Brattain,1902-02-10,Male,Bell Telephone Laboratories,United States of America,"Murray Hill, NJ",1
+351,221,Lord (Alexander R.) Todd,1907-10-02,Male,University of Cambridge,United Kingdom,Cambridge,1
+352,628,Albert Camus,1913-11-07,Male,,,,0
+353,363,Daniel Bovet,1907-03-23,Male,Istituto Superiore di Sanità (Chief Institute of Public Health),Italy,Rome,1
+354,516,Lester Bowles Pearson,1897-04-23,Male,,,,0
+355,68,Chen Ning Yang,1922-09-22,Male,Institute for Advanced Study,United States of America,"Princeton, NJ",1
+356,69,Tsung-Dao (T.D.) Lee,1926-11-24,Male,Columbia University,United States of America,"New York, NY",1
+357,222,Frederick Sanger,1918-08-13,Male,University of Cambridge,United Kingdom,Cambridge,1
+358,222,Frederick Sanger,1918-08-13,Male,MRC Laboratory of Molecular Biology,United Kingdom,Cambridge,1
+359,629,Boris Leonidovich Pasternak,1890-02-10,Male,,,,0
+360,364,George Wells Beadle,1903-10-22,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+361,365,Edward Lawrie Tatum,1909-12-14,Male,Rockefeller Institute for Medical Research,United States of America,"New York, NY",1
+362,366,Joshua Lederberg,1925-05-23,Male,University of Wisconsin,United States of America,"Madison, WI",1
+363,517,Georges Pire,1910-02-10,Male,,,,0
+364,70,Pavel Alekseyevich Cherenkov,1904-07-28,Male,P.N. Lebedev Physical Institute,Union of Soviet Socialist Republics,Moscow,1
+365,71,Igor Yevgenyevich Tamm,1895-07-08,Male,University of Moscow,Union of Soviet Socialist Republics,Moscow,1
+366,71,Igor Yevgenyevich Tamm,1895-07-08,Male,P.N. Lebedev Physical Institute,Union of Soviet Socialist Republics,Moscow,1
+367,71,Igor Yevgenyevich Tamm,1895-07-08,Male,University of Moscow,Union of Soviet Socialist Republics,Moscow,1
+368,71,Igor Yevgenyevich Tamm,1895-07-08,Male,P.N. Lebedev Physical Institute,Union of Soviet Socialist Republics,Moscow,1
+369,721,Il´ja Mikhailovich Frank,1908-10-23,Male,University of Moscow,Union of Soviet Socialist Republics,Moscow,1
+370,721,Il´ja Mikhailovich Frank,1908-10-23,Male,P.N. Lebedev Physical Institute,Union of Soviet Socialist Republics,Moscow,1
+371,721,Il´ja Mikhailovich Frank,1908-10-23,Male,University of Moscow,Union of Soviet Socialist Republics,Moscow,1
+372,721,Il´ja Mikhailovich Frank,1908-10-23,Male,P.N. Lebedev Physical Institute,Union of Soviet Socialist Republics,Moscow,1
+373,223,Jaroslav Heyrovsky,1890-12-20,Male,Polarographic Institute of the Czechoslovak Academy of Science,Czechoslovakia,Prague,1
+374,630,Salvatore Quasimodo,1901-08-20,Male,,,,0
+375,367,Severo Ochoa,1905-09-24,Male,"New York University, College of Medicine",United States of America,"New York, NY",1
+376,368,Arthur Kornberg,1918-03-03,Male,Stanford University,United States of America,"Stanford, CA",1
+377,518,Philip J. Noel-Baker,1889-11-01,Male,,,,0
+378,72,Emilio Gino Segrè,1905-02-01,Male,University of California,United States of America,"Berkeley, CA",1
+379,73,Owen Chamberlain,1920-07-10,Male,University of California,United States of America,"Berkeley, CA",1
+380,224,Willard Frank Libby,1908-12-17,Male,University of California,United States of America,"Los Angeles, CA",1
+381,631,Saint-John Perse,1887-05-31,Male,,,,0
+382,369,Sir Frank Macfarlane Burnet,1899-09-03,Male,Walter and Eliza Hall Institute for Medical Research,Australia,Melbourne,1
+383,370,Peter Brian Medawar,1915-02-28,Male,University College,United Kingdom,London,1
+384,519,Albert John Lutuli,1898-00-00,Male,,,,0
+385,74,Donald Arthur Glaser,1926-09-21,Male,University of California,United States of America,"Berkeley, CA",1
+386,225,Melvin Calvin,1911-04-08,Male,University of California,United States of America,"Berkeley, CA",1
+387,633,Ivo Andric,1892-10-10,Male,,,,0
+388,371,Georg von Békésy,1899-06-03,Male,Harvard University,United States of America,"Cambridge, MA",1
+389,520,Dag Hjalmar Agne Carl Hammarskjöld,1905-07-29,Male,,,,0
+390,75,Robert Hofstadter,1915-02-05,Male,Stanford University,United States of America,"Stanford, CA",1
+391,76,Rudolf Ludwig Mössbauer,1929-01-31,Male,Technical University,Federal Republic of Germany,Munich,1
+392,76,Rudolf Ludwig Mössbauer,1929-01-31,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+393,76,Rudolf Ludwig Mössbauer,1929-01-31,Male,Technical University,Federal Republic of Germany,Munich,1
+394,76,Rudolf Ludwig Mössbauer,1929-01-31,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+395,226,Max Ferdinand Perutz,1914-05-19,Male,MRC Laboratory of Molecular Biology,United Kingdom,Cambridge,1
+396,227,John Cowdery Kendrew,1917-03-24,Male,MRC Laboratory of Molecular Biology,United Kingdom,Cambridge,1
+397,634,John Steinbeck,1902-02-27,Male,,,,0
+398,372,Francis Harry Compton Crick,1916-06-08,Male,MRC Laboratory of Molecular Biology,United Kingdom,Cambridge,1
+399,373,James Dewey Watson,1928-04-06,Male,Harvard University,United States of America,"Cambridge, MA",1
+400,374,Maurice Hugh Frederick Wilkins,1916-12-15,Male,London University,United Kingdom,London,1
+401,217,Linus Carl Pauling,1901-02-28,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+402,217,Linus Carl Pauling,1901-02-28,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+403,77,Lev Davidovich Landau,1908-01-22,Male,Academy of Sciences,Union of Soviet Socialist Republics,Moscow,1
+404,228,Karl Ziegler,1898-11-26,Male,Max-Planck-Institut für Kohlenforschung (Max-Planck-Institute for Carbon Research),Federal Republic of Germany,Mülheim/Ruhr,1
+405,229,Giulio Natta,1903-02-26,Male,Institute of Technology,Italy,Milan,1
+406,635,Giorgos Seferis,1900-03-13,Male,,,,0
+407,375,Sir John Carew Eccles,1903-01-27,Male,Australian National University,Australia,Canberra,1
+408,376,Alan Lloyd Hodgkin,1914-02-05,Male,University of Cambridge,United Kingdom,Cambridge,1
+409,377,Andrew Fielding Huxley,1917-11-22,Male,University College,United Kingdom,London,1
+410,482,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,0
+411,482,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,0
+412,482,Comité international de la Croix Rouge (International Committee of the Red Cross),,,,,,0
+413,523,Ligue des Sociétés de la Croix-Rouge (League of Red Cross Societies),,,,,,0
+414,78,Eugene Paul Wigner,1902-11-17,Male,Princeton University,United States of America,"Princeton, NJ",1
+415,79,Maria Goeppert Mayer,1906-06-28,Female,University of California,United States of America,"San Diego, CA",1
+416,80,J. Hans D. Jensen,1907-06-25,Male,University of Heidelberg,Federal Republic of Germany,Heidelberg,1
+417,230,Dorothy Crowfoot Hodgkin,1910-05-12,Female,"University of Oxford, Royal Society",United Kingdom,Oxford,1
+418,637,Jean-Paul Sartre,1905-06-21,Male,,,,0
+419,378,Konrad Bloch,1912-01-21,Male,Harvard University,United States of America,"Cambridge, MA",1
+420,379,Feodor Lynen,1911-04-06,Male,Max-Planck-Institut für Zellchemie,Federal Republic of Germany,Munich,1
+421,524,Martin Luther King Jr.,1929-01-15,Male,,,,0
+422,81,Charles Hard Townes,1915-07-28,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+423,82,Nicolay Gennadiyevich Basov,1922-12-14,Male,P.N. Lebedev Physical Institute,Union of Soviet Socialist Republics,Moscow,1
+424,83,Aleksandr Mikhailovich Prokhorov,1916-07-11,Male,P.N. Lebedev Physical Institute,Union of Soviet Socialist Republics,Moscow,1
+425,231,Robert Burns Woodward,1917-04-10,Male,Harvard University,United States of America,"Cambridge, MA",1
+426,638,Mikhail Aleksandrovich Sholokhov,1905-05-24,Male,,,,0
+427,380,François Jacob,1920-06-17,Male,Institut Pasteur,France,Paris,1
+428,381,André Lwoff,1902-05-08,Male,Institut Pasteur,France,Paris,1
+429,382,Jacques Monod,1910-02-09,Male,Institut Pasteur,France,Paris,1
+430,525,United Nations Children's Fund (UNICEF),,,,,,0
+431,84,Sin-Itiro Tomonaga,1906-03-31,Male,Tokyo University of Education,Japan,Tokyo,1
+432,85,Julian Schwinger,1918-02-12,Male,Harvard University,United States of America,"Cambridge, MA",1
+433,86,Richard P. Feynman,1918-05-11,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+434,232,Robert S. Mulliken,1896-06-07,Male,University of Chicago,United States of America,"Chicago, IL",1
+435,639,Shmuel Yosef Agnon,1888-07-17,Male,,,,0
+436,640,Nelly Sachs,1891-12-10,Female,,,,0
+437,383,Peyton Rous,1879-10-05,Male,Rockefeller University,United States of America,"New York, NY",1
+438,384,Charles Brenton Huggins,1901-09-22,Male,"University of Chicago, Ben May Laboratory for Cancer Research",United States of America,"Chicago, IL",1
+439,87,Alfred Kastler,1902-05-03,Male,École Normale Supérieure,France,Paris,1
+440,233,Manfred Eigen,1927-05-09,Male,Max-Planck-Institut für Physikalische Chemie,Federal Republic of Germany,Göttingen,1
+441,234,Ronald George Wreyford Norrish,1897-11-09,Male,Institute of Physical Chemistry,United Kingdom,Cambridge,1
+442,235,George Porter,1920-12-06,Male,Royal Institution of Great Britain,United Kingdom,London,1
+443,641,Miguel Angel Asturias,1899-10-19,Male,,,,0
+444,385,Ragnar Granit,1900-10-30,Male,Karolinska Institutet,Sweden,Stockholm,1
+445,386,Haldan Keffer Hartline,1903-12-22,Male,Rockefeller University,United States of America,"New York, NY",1
+446,387,George Wald,1906-11-18,Male,Harvard University,United States of America,"Cambridge, MA",1
+447,88,Hans Albrecht Bethe,1906-07-02,Male,Cornell University,United States of America,"Ithaca, NY",1
+448,236,Lars Onsager,1903-11-27,Male,Yale University,United States of America,"New Haven, CT",1
+449,642,Yasunari Kawabata,1899-06-11,Male,,,,0
+450,388,Robert W. Holley,1922-01-28,Male,Cornell University,United States of America,"Ithaca, NY",1
+451,389,Har Gobind Khorana,1922-01-09,Male,University of Wisconsin,United States of America,"Madison, WI",1
+452,390,Marshall W. Nirenberg,1927-04-10,Male,National Institutes of Health,United States of America,"Bethesda, MD",1
+453,526,René Cassin,1887-10-05,Male,,,,0
+454,89,Luis Walter Alvarez,1911-06-13,Male,University of California,United States of America,"Berkeley, CA",1
+455,237,Derek H. R. Barton,1918-09-08,Male,Imperial College,United Kingdom,London,1
+456,238,Odd Hassel,1897-05-17,Male,University of Oslo,Norway,Oslo,1
+457,677,Ragnar Frisch,1895-03-03,Male,University of Oslo,Norway,Oslo,1
+458,678,Jan Tinbergen,1903-04-12,Male,The Netherlands School of Economics,Netherlands,Rotterdam,1
+459,643,Samuel Beckett,1906-04-13,Male,,,,0
+460,391,Max Delbrück,1906-09-04,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+461,392,Alfred D. Hershey,1908-12-04,Male,Carnegie Institution of Washington,United States of America,"Long Island, New York, NY",1
+462,393,Salvador E. Luria,1912-08-13,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+463,527,International Labour Organization (I.L.O.),,,,,,0
+464,90,Murray Gell-Mann,1929-09-15,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+465,239,Luis F. Leloir,1906-09-06,Male,Institute for Biochemical Research,Argentina,Buenos Aires,1
+466,679,Paul A. Samuelson,1915-05-15,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+467,644,Aleksandr Isayevich Solzhenitsyn,1918-12-11,Male,,,,0
+468,394,Sir Bernard Katz,1911-03-26,Male,University College,United Kingdom,London,1
+469,395,Ulf von Euler,1905-02-07,Male,Karolinska Institutet,Sweden,Stockholm,1
+470,396,Julius Axelrod,1912-05-30,Male,National Institutes of Health,United States of America,"Bethesda, MD",1
+471,528,Norman E. Borlaug,1914-03-25,Male,,,,0
+472,91,Hannes Olof Gösta Alfvén,1908-05-30,Male,Royal Institute of Technology,Sweden,Stockholm,1
+473,92,Louis Eugène Félix Néel,1904-11-22,Male,University of Grenoble,France,Grenoble,1
+474,240,Gerhard Herzberg,1904-12-25,Male,National Research Council of Canada,Canada,Ottawa,1
+475,680,Simon Kuznets,1901-04-30,Male,Harvard University,United States of America,"Cambridge, MA",1
+476,645,Pablo Neruda,1904-07-12,Male,,,,0
+477,397,"Earl W. Sutherland, Jr.",1915-11-19,Male,Vanderbilt University,United States of America,"Nashville, TN",1
+478,529,Willy Brandt,1913-12-18,Male,,,,0
+479,93,Dennis Gabor,1900-06-05,Male,Imperial College,United Kingdom,London,1
+480,241,Christian B. Anfinsen,1916-03-26,Male,National Institutes of Health,United States of America,"Bethesda, MD",1
+481,242,Stanford Moore,1913-09-04,Male,Rockefeller University,United States of America,"New York, NY",1
+482,243,William H. Stein,1911-06-25,Male,Rockefeller University,United States of America,"New York, NY",1
+483,681,John R. Hicks,1904-04-08,Male,All Souls College,United Kingdom,Oxford,1
+484,682,Kenneth J. Arrow,1921-08-23,Male,Harvard University,United States of America,"Cambridge, MA",1
+485,647,Heinrich Böll,1917-12-21,Male,,,,0
+486,398,Gerald M. Edelman,1929-07-01,Male,Rockefeller University,United States of America,"New York, NY",1
+487,399,Rodney R. Porter,1917-10-08,Male,University of Oxford,United Kingdom,Oxford,1
+488,66,John Bardeen,1908-05-23,Male,University of Illinois,United States of America,"Urbana, IL",1
+489,66,John Bardeen,1908-05-23,Male,University of Illinois,United States of America,"Urbana, IL",1
+490,95,Leon Neil Cooper,1930-02-28,Male,Brown University,United States of America,"Providence, RI",1
+491,96,John Robert Schrieffer,1931-05-31,Male,University of Pennsylvania,United States of America,"Philadelphia, PA",1
+492,244,Ernst Otto Fischer,1918-11-10,Male,Technical University,Federal Republic of Germany,Munich,1
+493,245,Geoffrey Wilkinson,1921-07-14,Male,Imperial College,United Kingdom,London,1
+494,683,Wassily Leontief,1906-08-05,Male,Harvard University,United States of America,"Cambridge, MA",1
+495,648,Patrick White,1912-05-28,Male,,,,0
+496,400,Karl von Frisch,1886-11-20,Male,Zoologisches Institut der Universität München,Federal Republic of Germany,Munich,1
+497,401,Konrad Lorenz,1903-11-07,Male,"Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften, Forschungsstelle für Ethologie",Austria,Altenberg; Grünau im Almtal,1
+498,402,Nikolaas Tinbergen,1907-04-15,Male,University of Oxford,United Kingdom,Oxford,1
+499,530,Henry A. Kissinger,1923-05-27,Male,,,,0
+500,531,Le Duc Tho,1911-10-14,Male,,,,0
+501,97,Leo Esaki,1925-03-12,Male,IBM Thomas J. Watson Research Center,United States of America,"Yorktown Heights, NY",1
+502,98,Ivar Giaever,1929-04-05,Male,General Electric Company,United States of America,"Schenectady, NY",1
+503,99,Brian David Josephson,1940-01-04,Male,University of Cambridge,United Kingdom,Cambridge,1
+504,246,Paul J. Flory,1910-06-19,Male,Stanford University,United States of America,"Stanford, CA",1
+505,684,Gunnar Myrdal,1898-12-06,Male,,,,0
+506,685,Friedrich August von Hayek,1899-05-08,Male,,,,0
+507,649,Eyvind Johnson,1900-07-29,Male,,,,0
+508,650,Harry Martinson,1904-05-06,Male,,,,0
+509,403,Albert Claude,1898-08-24,Male,Université Catholique de Louvain,Belgium,Louvain,1
+510,404,Christian de Duve,1917-10-02,Male,Rockefeller University,United States of America,"New York, NY",1
+511,404,Christian de Duve,1917-10-02,Male,Université Catholique de Louvain,Belgium,Louvain,1
+512,404,Christian de Duve,1917-10-02,Male,Rockefeller University,United States of America,"New York, NY",1
+513,404,Christian de Duve,1917-10-02,Male,Université Catholique de Louvain,Belgium,Louvain,1
+514,405,George E. Palade,1912-11-19,Male,"Yale University, School of Medicine",United States of America,"New Haven, CT",1
+515,532,Seán MacBride,1904-01-26,Male,,,,0
+516,533,Eisaku Sato,1901-03-27,Male,,,,0
+517,100,Sir Martin Ryle,1918-09-27,Male,University of Cambridge,United Kingdom,Cambridge,1
+518,101,Antony Hewish,1924-05-11,Male,University of Cambridge,United Kingdom,Cambridge,1
+519,247,John Warcup Cornforth,1917-09-07,Male,University of Sussex,United Kingdom,Brighton,1
+520,248,Vladimir Prelog,1906-07-23,Male,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Switzerland,Zurich,1
+521,686,Leonid Vitaliyevich Kantorovich,1912-01-19,Male,Academy of Sciences,Union of Soviet Socialist Republics,Moscow,1
+522,687,Tjalling C. Koopmans,1910-08-28,Male,Yale University,United States of America,"New Haven, CT",1
+523,651,Eugenio Montale,1896-10-12,Male,,,,0
+524,406,David Baltimore,1938-03-07,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+525,407,Renato Dulbecco,1914-02-22,Male,Imperial Cancer Research Fund Laboratory,United Kingdom,London,1
+526,408,Howard Martin Temin,1934-12-10,Male,University of Wisconsin,United States of America,"Madison, WI",1
+527,534,Andrei Dmitrievich Sakharov,1921-05-21,Male,,,,0
+528,102,Aage Niels Bohr,1922-06-19,Male,Niels Bohr Institute,Denmark,Copenhagen,1
+529,103,Ben Roy Mottelson,1926-07-09,Male,Nordita,Denmark,Copenhagen,1
+530,104,Leo James Rainwater,1917-12-09,Male,Columbia University,United States of America,"New York, NY",1
+531,249,William N. Lipscomb,1919-12-09,Male,Harvard University,United States of America,"Cambridge, MA",1
+532,688,Milton Friedman,1912-07-31,Male,University of Chicago,United States of America,"Chicago, IL",1
+533,652,Saul Bellow,1915-06-10,Male,,,,0
+534,409,Baruch S. Blumberg,1925-07-28,Male,The Institute for Cancer Research,United States of America,"Philadelphia, PA",1
+535,410,D. Carleton Gajdusek,1923-09-09,Male,National Institutes of Health,United States of America,"Bethesda, MD",1
+536,535,Betty Williams,1943-05-22,Female,,,,0
+537,536,Mairead Corrigan,1944-01-27,Female,,,,0
+538,105,Burton Richter,1931-03-22,Male,Stanford Linear Accelerator Center,United States of America,"Stanford, CA",1
+539,106,Samuel Chao Chung Ting,1936-01-27,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+540,250,Ilya Prigogine,1917-01-25,Male,Université Libre de Bruxelles,Belgium,Brussels,1
+541,250,Ilya Prigogine,1917-01-25,Male,University of Texas,United States of America,"Austin, TX",1
+542,250,Ilya Prigogine,1917-01-25,Male,Université Libre de Bruxelles,Belgium,Brussels,1
+543,250,Ilya Prigogine,1917-01-25,Male,University of Texas,United States of America,"Austin, TX",1
+544,689,Bertil Ohlin,1899-04-23,Male,Stockholm School of Economics,Sweden,Stockholm,1
+545,690,James E. Meade,1907-06-23,Male,University of Cambridge,United Kingdom,Cambridge,1
+546,653,Vicente Aleixandre,1898-04-26,Male,,,,0
+547,411,Roger Guillemin,1924-01-11,Male,The Salk Institute,United States of America,"San Diego, CA",1
+548,412,Andrew V. Schally,1926-11-30,Male,Veterans Administration Hospital,United States of America,"New Orleans, LA",1
+549,413,Rosalyn Yalow,1921-07-19,Female,Veterans Administration Hospital,United States of America,"Bronx, NY",1
+550,537,Amnesty International,,,,,,0
+551,107,Philip Warren Anderson,1923-12-13,Male,Bell Telephone Laboratories,United States of America,"Murray Hill, NJ",1
+552,108,Sir Nevill Francis Mott,1905-09-30,Male,University of Cambridge,United Kingdom,Cambridge,1
+553,109,John Hasbrouck van Vleck,1899-03-13,Male,Harvard University,United States of America,"Cambridge, MA",1
+554,251,Peter D. Mitchell,1920-09-29,Male,Glynn Research Laboratories,United Kingdom,Bodmin,1
+555,691,Herbert A. Simon,1916-06-15,Male,Carnegie Mellon University,United States of America,"Pittsburgh, PA",1
+556,654,Isaac Bashevis Singer,1904-07-14,Male,,,,0
+557,414,Werner Arber,1929-06-03,Male,Biozentrum der Universität,Switzerland,Basel,1
+558,415,Daniel Nathans,1928-10-30,Male,Johns Hopkins University School of Medicine,United States of America,"Baltimore, MD",1
+559,416,Hamilton O. Smith,1931-08-23,Male,Johns Hopkins University School of Medicine,United States of America,"Baltimore, MD",1
+560,538,Mohamed Anwar al-Sadat,1918-12-25,Male,,,,0
+561,539,Menachem Begin,1913-08-16,Male,,,,0
+562,110,Pyotr Leonidovich Kapitsa,1894-07-09,Male,Academy of Sciences,Union of Soviet Socialist Republics,Moscow,1
+563,111,Arno Allan Penzias,1933-04-26,Male,Bell Laboratories,United States of America,"Holmdel, NJ",1
+564,112,Robert Woodrow Wilson,1936-01-10,Male,Bell Laboratories,United States of America,"Holmdel, NJ",1
+565,252,Herbert C. Brown,1912-05-22,Male,Purdue University,United States of America,"West Lafayette, IN",1
+566,253,Georg Wittig,1897-06-16,Male,University of Heidelberg,Federal Republic of Germany,Heidelberg,1
+567,692,Theodore W. Schultz,1902-04-30,Male,University of Chicago,United States of America,"Chicago, IL",1
+568,693,Sir Arthur Lewis,1915-01-23,Male,Princeton University,United States of America,"Princeton, NJ",1
+569,655,Odysseus Elytis,1911-11-02,Male,,,,0
+570,417,Allan M. Cormack,1924-02-23,Male,Tufts University,United States of America,"Medford, MA",1
+571,418,Godfrey N. Hounsfield,1919-08-28,Male,"Central Research Laboratories, EMI",United Kingdom,London,1
+572,540,Mother Teresa,1910-08-26,Female,,,,0
+573,113,Sheldon Lee Glashow,1932-12-05,Male,"Harvard University, Lyman Laboratory",United States of America,"Cambridge, MA",1
+574,114,Abdus Salam,1926-01-29,Male,International Centre for Theoretical Physics,Italy,Trieste,1
+575,114,Abdus Salam,1926-01-29,Male,Imperial College,United Kingdom,London,1
+576,114,Abdus Salam,1926-01-29,Male,International Centre for Theoretical Physics,Italy,Trieste,1
+577,114,Abdus Salam,1926-01-29,Male,Imperial College,United Kingdom,London,1
+578,115,Steven Weinberg,1933-05-03,Male,Harvard University,United States of America,"Cambridge, MA",1
+579,222,Frederick Sanger,1918-08-13,Male,University of Cambridge,United Kingdom,Cambridge,1
+580,222,Frederick Sanger,1918-08-13,Male,MRC Laboratory of Molecular Biology,United Kingdom,Cambridge,1
+581,254,Paul Berg,1926-06-30,Male,Stanford University,United States of America,"Stanford, CA",1
+582,255,Walter Gilbert,1932-03-21,Male,"Harvard University, Biological Laboratories",United States of America,"Cambridge, MA",1
+583,694,Lawrence R. Klein,1920-09-14,Male,University of Pennsylvania,United States of America,"Philadelphia, PA",1
+584,657,Czeslaw Milosz,1911-06-30,Male,,,,0
+585,419,Baruj Benacerraf,1920-10-29,Male,Harvard Medical School,United States of America,"Boston, MA",1
+586,420,Jean Dausset,1916-10-19,Male,"Université de Paris, Laboratoire Immuno-Hématologie",France,Paris,1
+587,421,George D. Snell,1903-12-19,Male,Jackson Laboratory,United States of America,"Bar Harbor, ME",1
+588,541,Adolfo Pérez Esquivel,1931-11-26,Male,,,,0
+589,116,James Watson Cronin,1931-09-29,Male,University of Chicago,United States of America,"Chicago, IL",1
+590,117,Val Logsdon Fitch,1923-03-10,Male,Princeton University,United States of America,"Princeton, NJ",1
+591,257,Kenichi Fukui,1918-10-04,Male,Kyoto University,Japan,Kyoto,1
+592,258,Roald Hoffmann,1937-07-18,Male,Cornell University,United States of America,"Ithaca, NY",1
+593,695,James Tobin,1918-03-05,Male,Yale University,United States of America,"New Haven, CT",1
+594,658,Elias Canetti,1905-07-25,Male,,,,0
+595,422,Roger W. Sperry,1913-08-20,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+596,423,David H. Hubel,1926-02-27,Male,Harvard Medical School,United States of America,"Boston, MA",1
+597,424,Torsten N. Wiesel,1924-06-03,Male,Harvard Medical School,United States of America,"Boston, MA",1
+598,515,Office of the United Nations High Commissioner for Refugees (UNHCR),,,,,,0
+599,515,Office of the United Nations High Commissioner for Refugees (UNHCR),,,,,,0
+600,118,Nicolaas Bloembergen,1920-03-11,Male,Harvard University,United States of America,"Cambridge, MA",1
+601,119,Arthur Leonard Schawlow,1921-05-05,Male,Stanford University,United States of America,"Stanford, CA",1
+602,120,Kai M. Siegbahn,1918-04-20,Male,Uppsala University,Sweden,Uppsala,1
+603,259,Aaron Klug,1926-08-11,Male,MRC Laboratory of Molecular Biology,United Kingdom,Cambridge,1
+604,696,George J. Stigler,1911-01-17,Male,University of Chicago,United States of America,"Chicago, IL",1
+605,659,Gabriel García Márquez,1927-03-06,Male,,,,0
+606,425,Sune K. Bergström,1916-01-10,Male,Karolinska Institutet,Sweden,Stockholm,1
+607,426,Bengt I. Samuelsson,1934-05-21,Male,Karolinska Institutet,Sweden,Stockholm,1
+608,427,John R. Vane,1927-03-29,Male,The Wellcome Research Laboratories,United Kingdom,Beckenham,1
+609,543,Alva Myrdal,1902-01-31,Female,,,,0
+610,544,Alfonso García Robles,1911-03-20,Male,,,,0
+611,121,Kenneth G. Wilson,1936-06-08,Male,Cornell University,United States of America,"Ithaca, NY",1
+612,260,Henry Taube,1915-11-30,Male,Stanford University,United States of America,"Stanford, CA",1
+613,697,Gerard Debreu,1921-07-04,Male,University of California,United States of America,"Berkeley, CA",1
+614,660,William Golding,1911-09-19,Male,,,,0
+615,428,Barbara McClintock,1902-06-16,Female,Cold Spring Harbor Laboratory,United States of America,"Cold Spring Harbor, NY",1
+616,545,Lech Walesa,1943-09-29,Male,,,,0
+617,122,Subramanyan Chandrasekhar,1910-10-19,Male,University of Chicago,United States of America,"Chicago, IL",1
+618,123,William Alfred Fowler,1911-08-09,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+619,261,Robert Bruce Merrifield,1921-07-15,Male,Rockefeller University,United States of America,"New York, NY",1
+620,698,Richard Stone,1913-08-30,Male,University of Cambridge,United Kingdom,Cambridge,1
+621,661,Jaroslav Seifert,1901-09-23,Male,,,,0
+622,429,Niels K. Jerne,1911-12-23,Male,Basel Institute for Immunology,Switzerland,Basel,1
+623,430,Georges J.F. Köhler,1946-04-17,Male,Basel Institute for Immunology,Switzerland,Basel,1
+624,431,César Milstein,1927-10-08,Male,MRC Laboratory of Molecular Biology,United Kingdom,Cambridge,1
+625,546,Desmond Mpilo Tutu,1931-10-07,Male,,,,0
+626,124,Carlo Rubbia,1934-03-31,Male,CERN,Switzerland,Geneva,1
+627,125,Simon van der Meer,1925-11-24,Male,CERN,Switzerland,Geneva,1
+628,262,Herbert A. Hauptman,1917-02-14,Male,The Medical Foundation of Buffalo,United States of America,"Buffalo, NY",1
+629,263,Jerome Karle,1918-06-18,Male,US Naval Research Laboratory,United States of America,"Washington, DC",1
+630,699,Franco Modigliani,1918-06-18,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+631,662,Claude Simon,1913-10-10,Male,,,,0
+632,432,Michael S. Brown,1941-04-13,Male,University of Texas Southwestern Medical Center at Dallas,United States of America,"Dallas, TX",1
+633,433,Joseph L. Goldstein,1940-04-18,Male,University of Texas Southwestern Medical Center at Dallas,United States of America,"Dallas, TX",1
+634,547,International Physicians for the Prevention of Nuclear War,,,,,,0
+635,126,Klaus von Klitzing,1943-06-28,Male,Max-Planck-Institut für Festkörperforschung,Federal Republic of Germany,Stuttgart,1
+636,264,Dudley R. Herschbach,1932-06-18,Male,Harvard University,United States of America,"Cambridge, MA",1
+637,265,Yuan T. Lee,1936-11-19,Male,University of California,United States of America,"Berkeley, CA",1
+638,266,John C. Polanyi,1929-01-23,Male,University of Toronto,Canada,Toronto,1
+639,700,James M. Buchanan Jr.,1919-10-03,Male,Center for Study of Public Choice,United States of America,"Fairfax, VA",1
+640,663,Wole Soyinka,1934-07-13,Male,,,,0
+641,434,Stanley Cohen,1922-11-17,Male,Vanderbilt University School of Medicine,United States of America,"Nashville, TN",1
+642,435,Rita Levi-Montalcini,1909-04-22,Female,Institute of Cell Biology of the C.N.R.,Italy,Rome,1
+643,548,Elie Wiesel,1928-09-30,Male,,,,0
+644,127,Ernst Ruska,1906-12-25,Male,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Federal Republic of Germany,Berlin,1
+645,128,Gerd Binnig,1947-07-20,Male,IBM Zurich Research Laboratory,Switzerland,Rüschlikon,1
+646,129,Heinrich Rohrer,1933-06-06,Male,IBM Zurich Research Laboratory,Switzerland,Rüschlikon,1
+647,267,Donald J. Cram,1919-04-22,Male,University of California,United States of America,"Los Angeles, CA",1
+648,268,Jean-Marie Lehn,1939-09-30,Male,Université Louis Pasteur,France,Strasbourg,1
+649,268,Jean-Marie Lehn,1939-09-30,Male,Collège de France,France,Paris,1
+650,268,Jean-Marie Lehn,1939-09-30,Male,Université Louis Pasteur,France,Strasbourg,1
+651,268,Jean-Marie Lehn,1939-09-30,Male,Collège de France,France,Paris,1
+652,269,Charles J. Pedersen,1904-10-03,Male,Du Pont,United States of America,"Wilmington, DE",1
+653,701,Robert M. Solow,1924-08-23,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+654,664,Joseph Brodsky,1940-05-24,Male,,,,0
+655,436,Susumu Tonegawa,1939-09-06,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+656,549,Oscar Arias Sánchez,1941-09-13,Male,,,,0
+657,130,J. Georg Bednorz,1950-05-16,Male,IBM Zurich Research Laboratory,Switzerland,Rüschlikon,1
+658,131,K. Alexander Müller,1927-04-20,Male,IBM Zurich Research Laboratory,Switzerland,Rüschlikon,1
+659,270,Johann Deisenhofer,1943-09-30,Male,University of Texas Southwestern Medical Center at Dallas,United States of America,"Dallas, TX",1
+660,270,Johann Deisenhofer,1943-09-30,Male,Howard Hughes Medical Institute,,,1
+661,270,Johann Deisenhofer,1943-09-30,Male,University of Texas Southwestern Medical Center at Dallas,United States of America,"Dallas, TX",1
+662,270,Johann Deisenhofer,1943-09-30,Male,Howard Hughes Medical Institute,,,1
+663,271,Robert Huber,1937-02-20,Male,Max-Planck-Institut für Biochemie,Federal Republic of Germany,Martinsried,1
+664,272,Hartmut Michel,1948-07-18,Male,Max-Planck-Institut für Biophysik,Federal Republic of Germany,Frankfurt-on-the-Main,1
+665,702,Maurice Allais,1911-05-31,Male,École Nationale Supérieur des Mines de Paris,France,Paris,1
+666,665,Naguib Mahfouz,1911-12-11,Male,,,,0
+667,437,Sir James W. Black,1924-06-14,Male,"London University, King's College Hospital Medical School",United Kingdom,London,1
+668,438,Gertrude B. Elion,1918-01-23,Female,Wellcome Research Laboratories,United States of America,"Research Triangle Park, NC",1
+669,439,George H. Hitchings,1905-04-18,Male,Wellcome Research Laboratories,United States of America,"Research Triangle Park, NC",1
+670,550,United Nations Peacekeeping Forces,,,,,,0
+671,132,Leon M. Lederman,1922-07-15,Male,Fermi National Accelerator Laboratory,United States of America,"Batavia, IL",1
+672,133,Melvin Schwartz,1932-11-02,Male,"Digital Pathways, Inc.",United States of America,"Mountain View, CA",1
+673,134,Jack Steinberger,1921-05-25,Male,CERN,Switzerland,Geneva,1
+674,273,Sidney Altman,1939-05-07,Male,Yale University,United States of America,"New Haven, CT",1
+675,274,Thomas R. Cech,1947-12-08,Male,University of Colorado,United States of America,"Boulder, CO",1
+676,703,Trygve Haavelmo,1911-12-13,Male,University of Oslo,Norway,Oslo,1
+677,666,Camilo José Cela,1916-05-11,Male,,,,0
+678,440,J. Michael Bishop,1936-02-22,Male,University of California School of Medicine,United States of America,"San Francisco, CA",1
+679,441,Harold E. Varmus,1939-12-18,Male,University of California School of Medicine,United States of America,"San Francisco, CA",1
+680,551,The 14th Dalai Lama (Tenzin Gyatso),1935-07-06,Male,,,,0
+681,135,Norman F. Ramsey,1915-08-27,Male,Harvard University,United States of America,"Cambridge, MA",1
+682,136,Hans G. Dehmelt,1922-09-09,Male,University of Washington,United States of America,"Seattle, WA",1
+683,137,Wolfgang Paul,1913-08-10,Male,University of Bonn,Federal Republic of Germany,Bonn,1
+684,275,Elias James Corey,1928-07-12,Male,Harvard University,United States of America,"Cambridge, MA",1
+685,704,Harry M. Markowitz,1927-08-24,Male,City University of New York,United States of America,"New York, NY",1
+686,705,Merton H. Miller,1923-05-16,Male,University of Chicago,United States of America,"Chicago, IL",1
+687,706,William F. Sharpe,1934-06-16,Male,Stanford University,United States of America,"Stanford, CA",1
+688,667,Octavio Paz,1914-03-31,Male,,,,0
+689,442,Joseph E. Murray,1919-04-01,Male,Brigham and Women's Hospital,United States of America,"Boston, MA",1
+690,443,E. Donnall Thomas,1920-03-15,Male,Fred Hutchinson Cancer Research Center,United States of America,"Seattle, WA",1
+691,552,Mikhail Sergeyevich Gorbachev,1931-03-02,Male,,,,0
+692,138,Jerome I. Friedman,1930-03-28,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+693,139,Henry W. Kendall,1926-12-09,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+694,140,Richard E. Taylor,1929-11-02,Male,Stanford University,United States of America,"Stanford, CA",1
+695,276,Richard R. Ernst,1933-08-14,Male,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Switzerland,Zurich,1
+696,707,Ronald H. Coase,1910-12-29,Male,University of Chicago,United States of America,"Chicago, IL",1
+697,668,Nadine Gordimer,1923-11-20,Female,,,,0
+698,444,Erwin Neher,1944-03-20,Male,Max-Planck-Institut für Biophysikalische Chemie,Federal Republic of Germany,Göttingen,1
+699,445,Bert Sakmann,1942-06-12,Male,Max-Planck-Institut für medizinische Forschung,Federal Republic of Germany,Heidelberg,1
+700,553,Aung San Suu Kyi,1945-06-19,Female,,,,0
+701,141,Pierre-Gilles de Gennes,1932-10-24,Male,Collège de France,France,Paris,1
+702,277,Rudolph A. Marcus,1923-07-21,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+703,708,Gary S. Becker,1930-12-02,Male,University of Chicago,United States of America,"Chicago, IL",1
+704,669,Derek Walcott,1930-01-23,Male,,,,0
+705,446,Edmond H. Fischer,1920-04-06,Male,University of Washington,United States of America,"Seattle, WA",1
+706,447,Edwin G. Krebs,1918-06-06,Male,University of Washington,United States of America,"Seattle, WA",1
+707,554,Rigoberta Menchú Tum,1959-01-09,Female,,,,0
+708,142,Georges Charpak,1924-08-01,Male,École Supérieure de Physique et Chimie,France,Paris,1
+709,142,Georges Charpak,1924-08-01,Male,CERN,Switzerland,Geneva,1
+710,142,Georges Charpak,1924-08-01,Male,École Supérieure de Physique et Chimie,France,Paris,1
+711,142,Georges Charpak,1924-08-01,Male,CERN,Switzerland,Geneva,1
+712,278,Kary B. Mullis,1944-12-28,Male,,United States of America,"La Jolla, CA",0
+713,279,Michael Smith,1932-04-26,Male,University of British Columbia,Canada,Vancouver,1
+714,709,Robert W. Fogel,1927-07-01,Male,University of Chicago,United States of America,"Chicago, IL",1
+715,710,Douglass C. North,1920-11-05,Male,Washington University,United States of America,"St. Louis, MO",1
+716,670,Toni Morrison,1931-02-18,Female,,,,0
+717,448,Richard J. Roberts,1943-09-06,Male,New England Biolabs,United States of America,"Beverly, MA",1
+718,449,Phillip A. Sharp,1944-06-06,Male,"Massachusetts Institute of Technology (MIT), Center for Cancer Research",United States of America,"Cambridge, MA",1
+719,555,Nelson Mandela,1918-07-18,Male,,,,0
+720,556,Frederik Willem de Klerk,1936-03-18,Male,,,,0
+721,143,Russell A. Hulse,1950-11-28,Male,Princeton University,United States of America,"Princeton, NJ",1
+722,144,Joseph H. Taylor Jr.,1941-03-29,Male,Princeton University,United States of America,"Princeton, NJ",1
+723,280,George A. Olah,1927-05-22,Male,University of Southern California,United States of America,"Los Angeles, CA",1
+724,711,John C. Harsanyi,1920-05-29,Male,University of California,United States of America,"Berkeley, CA",1
+725,712,John F. Nash Jr.,1928-06-13,Male,Princeton University,United States of America,"Princeton, NJ",1
+726,713,Reinhard Selten,1930-10-05,Male,Rheinische Friedrich-Wilhelms-Universität,Federal Republic of Germany,Bonn,1
+727,671,Kenzaburo Oe,1935-01-31,Male,,,,0
+728,450,Alfred G. Gilman,1941-07-01,Male,University of Texas Southwestern Medical Center at Dallas,United States of America,"Dallas, TX",1
+729,451,Martin Rodbell,1925-12-01,Male,National Institute of Environmental Health Sciences,United States of America,"Research Triangle Park, NC",1
+730,557,Yasser Arafat,1929-08-24,Male,,,,0
+731,558,Shimon Peres,1923-08-16,Male,,,,0
+732,559,Yitzhak Rabin,1922-03-01,Male,,,,0
+733,145,Bertram N. Brockhouse,1918-07-15,Male,McMaster University,Canada,"Hamilton, Ontario",1
+734,146,Clifford G. Shull,1915-09-23,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+735,281,Paul J. Crutzen,1933-12-03,Male,Max-Planck-Institut für Chemie,Federal Republic of Germany,Mainz,1
+736,282,Mario J. Molina,1943-03-19,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+737,283,F. Sherwood Rowland,1927-06-28,Male,University of California,United States of America,"Irvine, CA",1
+738,714,Robert E. Lucas Jr.,1937-09-15,Male,University of Chicago,United States of America,"Chicago, IL",1
+739,672,Seamus Heaney,1939-04-13,Male,,,,0
+740,452,Edward B. Lewis,1918-05-20,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+741,453,Christiane Nüsslein-Volhard,1942-10-20,Female,Max-Planck-Institut für Entwicklungsbiologie,Federal Republic of Germany,Tübingen,1
+742,454,Eric F. Wieschaus,1947-06-08,Male,Princeton University,United States of America,"Princeton, NJ",1
+743,560,Joseph Rotblat,1908-11-04,Male,,,,0
+744,561,Pugwash Conferences on Science and World Affairs,,,,,,0
+745,147,Martin L. Perl,1927-06-24,Male,Stanford University,United States of America,"Stanford, CA",1
+746,148,Frederick Reines,1918-03-16,Male,University of California,United States of America,"Irvine, CA",1
+747,284,Robert F. Curl Jr.,1933-08-23,Male,Rice University,United States of America,"Houston, TX",1
+748,285,Sir Harold W. Kroto,1939-10-07,Male,University of Sussex,United Kingdom,Brighton,1
+749,286,Richard E. Smalley,1943-06-06,Male,Rice University,United States of America,"Houston, TX",1
+750,715,James A. Mirrlees,1936-07-05,Male,University of Cambridge,United Kingdom,Cambridge,1
+751,716,William Vickrey,1914-06-21,Male,Columbia University,United States of America,"New York, NY",1
+752,673,Wislawa Szymborska,1923-07-02,Female,,,,0
+753,455,Peter C. Doherty,1940-10-15,Male,St. Jude Children's Research Hospital,United States of America,"Memphis, TN",1
+754,456,Rolf M. Zinkernagel,1944-01-06,Male,"University of Zurich, Institute of Experimental Immunology",Switzerland,Zurich,1
+755,562,Carlos Filipe Ximenes Belo,1948-02-03,Male,,,,0
+756,563,José Ramos-Horta,1949-12-26,Male,,,,0
+757,149,David M. Lee,1931-01-20,Male,Cornell University,United States of America,"Ithaca, NY",1
+758,150,Douglas D. Osheroff,1945-08-01,Male,Stanford University,United States of America,"Stanford, CA",1
+759,151,Robert C. Richardson,1937-06-26,Male,Cornell University,United States of America,"Ithaca, NY",1
+760,287,Paul D. Boyer,1918-07-31,Male,University of California,United States of America,"Los Angeles, CA",1
+761,288,John E. Walker,1941-01-07,Male,MRC Laboratory of Molecular Biology,United Kingdom,Cambridge,1
+762,289,Jens C. Skou,1918-10-08,Male,Aarhus University,Denmark,Aarhus,1
+763,717,Robert C. Merton,1944-07-31,Male,Harvard University,United States of America,"Cambridge, MA",1
+764,718,Myron S. Scholes,1941-07-01,Male,Long Term Capital Management,United States of America,"Greenwich, CT",1
+765,674,Dario Fo,1926-03-24,Male,,,,0
+766,457,Stanley B. Prusiner,1942-05-28,Male,University of California School of Medicine,United States of America,"San Francisco, CA",1
+767,564,International Campaign to Ban Landmines (ICBL),,,,,,0
+768,565,Jody Williams,1950-10-09,Female,,,,0
+769,152,Steven Chu,1948-02-28,Male,Stanford University,United States of America,"Stanford, CA",1
+770,153,Claude Cohen-Tannoudji,1933-04-01,Male,Collège de France,France,Paris,1
+771,153,Claude Cohen-Tannoudji,1933-04-01,Male,École Normale Supérieure,France,Paris,1
+772,153,Claude Cohen-Tannoudji,1933-04-01,Male,Collège de France,France,Paris,1
+773,153,Claude Cohen-Tannoudji,1933-04-01,Male,École Normale Supérieure,France,Paris,1
+774,154,William D. Phillips,1948-11-05,Male,National Institute of Standards and Technology,United States of America,"Gaithersburg, MD",1
+775,290,Walter Kohn,1923-03-09,Male,University of California,United States of America,"Santa Barbara, CA",1
+776,291,John A. Pople,1925-10-31,Male,Northwestern University,United States of America,"Evanston, IL",1
+777,719,Amartya Sen,1933-11-03,Male,Trinity College,United Kingdom,Cambridge,1
+778,675,José Saramago,1922-11-16,Male,,,,0
+779,458,Robert F. Furchgott,1916-06-04,Male,SUNY Health Science Center,United States of America,"Brooklyn, NY",1
+780,459,Louis J. Ignarro,1941-05-31,Male,University of California School of Medicine,United States of America,"Los Angeles, CA",1
+781,460,Ferid Murad,1936-09-14,Male,University of Texas Medical School at Houston,United States of America,"Houston, TX",1
+782,566,John Hume,1937-01-18,Male,,,,0
+783,567,David Trimble,1944-10-15,Male,,,,0
+784,155,Robert B. Laughlin,1950-11-01,Male,Stanford University,United States of America,"Stanford, CA",1
+785,156,Horst L. Störmer,1949-04-06,Male,Columbia University,United States of America,"New York, NY",1
+786,157,Daniel C. Tsui,1939-02-28,Male,Princeton University,United States of America,"Princeton, NJ",1
+787,292,Ahmed H. Zewail,1946-02-26,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+788,720,Robert A. Mundell,1932-10-24,Male,Columbia University,United States of America,"New York, NY",1
+789,676,Günter Grass,1927-10-16,Male,,,,0
+790,461,Günter Blobel,1936-05-21,Male,Rockefeller University,United States of America,"New York, NY",1
+791,461,Günter Blobel,1936-05-21,Male,Howard Hughes Medical Institute,,,1
+792,461,Günter Blobel,1936-05-21,Male,Rockefeller University,United States of America,"New York, NY",1
+793,461,Günter Blobel,1936-05-21,Male,Howard Hughes Medical Institute,,,1
+794,568,Médecins Sans Frontières,,,,,,0
+795,158,Gerardus 't Hooft,1946-07-05,Male,Utrecht University,Netherlands,Utrecht,1
+796,159,Martinus J.G. Veltman,1931-06-27,Male,,Netherlands,Bilthoven,0
+797,729,Alan J. Heeger,1936-01-22,Male,University of California,United States of America,"Santa Barbara, CA",1
+798,730,Alan G. MacDiarmid,1927-04-14,Male,University of Pennsylvania,United States of America,"Philadelphia, PA",1
+799,731,Hideki Shirakawa,1936-08-20,Male,University of Tsukuba,Japan,Tokyo,1
+800,732,James J. Heckman,1944-04-19,Male,University of Chicago,United States of America,"Chicago, IL",1
+801,733,Daniel L. McFadden,1937-07-29,Male,University of California,United States of America,"Berkeley, CA",1
+802,734,Gao Xingjian,1940-01-04,Male,,,,0
+803,722,Arvid Carlsson,1923-01-25,Male,Göteborg University,Sweden,Gothenburg,1
+804,723,Paul Greengard,1925-12-11,Male,Rockefeller University,United States of America,"New York, NY",1
+805,724,Eric R. Kandel,1929-11-07,Male,Columbia University,United States of America,"New York, NY",1
+806,725,Kim Dae-jung,1925-12-03,Male,,,,0
+807,726,Zhores I. Alferov,1930-03-15,Male,A.F. Ioffe Physico-Technical Institute,Russia,St. Petersburg,1
+808,727,Herbert Kroemer,1928-08-25,Male,University of California,United States of America,"Santa Barbara, CA",1
+809,728,Jack S. Kilby,1923-11-08,Male,Texas Instruments,United States of America,"Dallas, TX",1
+810,741,William S. Knowles,1917-06-01,Male,,United States of America,"St. Louis, MO",0
+811,742,Ryoji Noyori,1938-09-03,Male,Nagoya University,Japan,Nagoya,1
+812,743,K. Barry Sharpless,1941-04-28,Male,The Scripps Research Institute,United States of America,"La Jolla, CA",1
+813,744,George A. Akerlof,1940-06-17,Male,University of California,United States of America,"Berkeley, CA",1
+814,745,A. Michael Spence,1943-00-00,Male,Stanford University,United States of America,"Stanford, CA",1
+815,746,Joseph E. Stiglitz,1943-02-09,Male,Columbia University,United States of America,"New York, NY",1
+816,747,Sir Vidiadhar Surajprasad Naipaul,1932-08-17,Male,,,,0
+817,735,Leland H. Hartwell,1939-10-30,Male,Fred Hutchinson Cancer Research Center,United States of America,"Seattle, WA",1
+818,736,Tim Hunt,1943-02-19,Male,Imperial Cancer Research Fund,United Kingdom,London,1
+819,737,Sir Paul M. Nurse,1949-01-25,Male,Imperial Cancer Research Fund,United Kingdom,London,1
+820,748,United Nations (U.N.),,,,,,0
+821,749,Kofi Annan,1938-04-08,Male,,,,0
+822,738,Eric A. Cornell,1961-12-19,Male,"University of Colorado, JILA",United States of America,"Boulder, CO",1
+823,739,Wolfgang Ketterle,1957-10-21,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+824,740,Carl E. Wieman,1951-03-26,Male,"University of Colorado, JILA",United States of America,"Boulder, CO",1
+825,756,John B. Fenn,1917-06-15,Male,Virginia Commonwealth University,United States of America,"Richmond, VA",1
+826,757,Koichi Tanaka,1959-08-03,Male,Shimadzu Corp.,Japan,Kyoto,1
+827,758,Kurt Wüthrich,1938-10-04,Male,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Switzerland,Zurich,1
+828,758,Kurt Wüthrich,1938-10-04,Male,The Scripps Research Institute,United States of America,"La Jolla, CA",1
+829,758,Kurt Wüthrich,1938-10-04,Male,Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology),Switzerland,Zurich,1
+830,758,Kurt Wüthrich,1938-10-04,Male,The Scripps Research Institute,United States of America,"La Jolla, CA",1
+831,759,Daniel Kahneman,1934-03-05,Male,Princeton University,United States of America,"Princeton, NJ",1
+832,760,Vernon L. Smith,1927-01-01,Male,George Mason University,United States of America,"Fairfax, VA",1
+833,761,Imre Kertész,1929-11-09,Male,,,,0
+834,750,Sydney Brenner,1927-01-13,Male,The Molecular Sciences Institute,United States of America,"Berkeley, CA",1
+835,751,H. Robert Horvitz,1947-05-08,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+836,752,John E. Sulston,1942-03-27,Male,The Wellcome Trust Sanger Institute,United Kingdom,Cambridge,1
+837,762,Jimmy Carter,1924-10-01,Male,,,,0
+838,753,Raymond Davis Jr.,1914-10-14,Male,University of Pennsylvania,United States of America,"Philadelphia, PA",1
+839,754,Masatoshi Koshiba,1926-09-19,Male,University of Tokyo,Japan,Tokyo,1
+840,755,Riccardo Giacconi,1931-10-06,Male,Associated Universities Inc.,United States of America,"Washington, DC",1
+841,769,Peter Agre,1949-01-30,Male,Johns Hopkins University School of Medicine,United States of America,"Baltimore, MD",1
+842,770,Roderick MacKinnon,1956-02-19,Male,Rockefeller University,United States of America,"New York, NY",1
+843,770,Roderick MacKinnon,1956-02-19,Male,Howard Hughes Medical Institute,,,1
+844,770,Roderick MacKinnon,1956-02-19,Male,Rockefeller University,United States of America,"New York, NY",1
+845,770,Roderick MacKinnon,1956-02-19,Male,Howard Hughes Medical Institute,,,1
+846,771,Robert F. Engle III,1942-11-10,Male,New York University,United States of America,"New York, NY",1
+847,772,Clive W.J. Granger,1934-09-04,Male,University of California,United States of America,"San Diego, CA",1
+848,763,John M. Coetzee,1940-02-09,Male,,,,0
+849,764,Paul C. Lauterbur,1929-05-06,Male,University of Illinois,United States of America,"Urbana, IL",1
+850,765,Sir Peter Mansfield,1933-10-09,Male,"University of Nottingham, School of Physics and Astronomy",United Kingdom,Nottingham,1
+851,773,Shirin Ebadi,1947-06-21,Female,,,,0
+852,766,Alexei A. Abrikosov,1928-06-25,Male,Argonne National Laboratory,United States of America,"Argonne, IL",1
+853,767,Vitaly L. Ginzburg,1916-10-04,Male,P.N. Lebedev Physical Institute,Russia,Moscow,1
+854,768,Anthony J. Leggett,1938-03-26,Male,University of Illinois,United States of America,"Urbana, IL",1
+855,779,Aaron Ciechanover,1947-10-01,Male,Technion - Israel Institute of Technology,Israel,Haifa,1
+856,780,Avram Hershko,1937-12-31,Male,Technion - Israel Institute of Technology,Israel,Haifa,1
+857,781,Irwin Rose,1926-07-16,Male,University of California,United States of America,"Irvine, CA",1
+858,786,Finn E. Kydland,1943-12-01,Male,Carnegie Mellon University,United States of America,"Pittsburgh, PA",1
+859,786,Finn E. Kydland,1943-12-01,Male,University of California,United States of America,"Santa Barbara, CA",1
+860,786,Finn E. Kydland,1943-12-01,Male,Carnegie Mellon University,United States of America,"Pittsburgh, PA",1
+861,786,Finn E. Kydland,1943-12-01,Male,University of California,United States of America,"Santa Barbara, CA",1
+862,787,Edward C. Prescott,1940-12-26,Male,Arizona State University,United States of America,"Tempe, AZ",1
+863,787,Edward C. Prescott,1940-12-26,Male,Federal Reserve Bank of Minneapolis,United States of America,"Minneapolis, MN",1
+864,787,Edward C. Prescott,1940-12-26,Male,Arizona State University,United States of America,"Tempe, AZ",1
+865,787,Edward C. Prescott,1940-12-26,Male,Federal Reserve Bank of Minneapolis,United States of America,"Minneapolis, MN",1
+866,782,Elfriede Jelinek,1946-10-20,Female,,,,0
+867,774,Richard Axel,1946-07-02,Male,Columbia University,United States of America,"New York, NY",1
+868,775,Linda B. Buck,1947-01-29,Female,Fred Hutchinson Cancer Research Center,United States of America,"Seattle, WA",1
+869,783,Wangari Muta Maathai,1940-04-01,Female,,,,0
+870,776,David J. Gross,1941-02-19,Male,"University of California, Kavli Institute for Theoretical Physics",United States of America,"Santa Barbara, CA",1
+871,777,H. David Politzer,1949-08-31,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+872,778,Frank Wilczek,1951-05-15,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+873,794,Yves Chauvin,1930-10-10,Male,Institut Français du Pétrole,France,Rueil-Malmaison,1
+874,795,Robert H. Grubbs,1942-02-27,Male,California Institute of Technology (Caltech),United States of America,"Pasadena, CA",1
+875,796,Richard R. Schrock,1945-01-04,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+876,799,Robert J. Aumann,1930-06-08,Male,"University of Jerusalem, Center for RationalityHebrew",Israel,Jerusalem,1
+877,800,Thomas C. Schelling,1921-04-14,Male,"University of Maryland, Department of Economics and School of Public Policy",United States of America,"College Park, MD",1
+878,801,Harold Pinter,1930-10-10,Male,,,,0
+879,789,Barry J. Marshall,1951-09-30,Male,"NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre",Australia,Nedlands,1
+880,789,Barry J. Marshall,1951-09-30,Male,University of Western Australia,Australia,Perth,1
+881,789,Barry J. Marshall,1951-09-30,Male,"NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre",Australia,Nedlands,1
+882,789,Barry J. Marshall,1951-09-30,Male,University of Western Australia,Australia,Perth,1
+883,790,J. Robin Warren,1937-06-11,Male,,Australia,Perth,0
+884,797,International Atomic Energy Agency (IAEA),,,,,,0
+885,798,Mohamed ElBaradei,1942-06-17,Male,,,,0
+886,791,Roy J. Glauber,1925-09-01,Male,Harvard University,United States of America,"Cambridge, MA",1
+887,792,John L. Hall,1934-08-21,Male,"University of Colorado, JILA",United States of America,"Boulder, CO",1
+888,792,John L. Hall,1934-08-21,Male,National Institute of Standards and Technology,United States of America,"Boulder, CO",1
+889,792,John L. Hall,1934-08-21,Male,"University of Colorado, JILA",United States of America,"Boulder, CO",1
+890,792,John L. Hall,1934-08-21,Male,National Institute of Standards and Technology,United States of America,"Boulder, CO",1
+891,793,Theodor W. Hänsch,1941-10-30,Male,Max-Planck-Institut für Quantenoptik,Germany,Garching,1
+892,793,Theodor W. Hänsch,1941-10-30,Male,Ludwig-Maximilians- Universität,Germany,Munich,1
+893,793,Theodor W. Hänsch,1941-10-30,Male,Max-Planck-Institut für Quantenoptik,Germany,Garching,1
+894,793,Theodor W. Hänsch,1941-10-30,Male,Ludwig-Maximilians- Universität,Germany,Munich,1
+895,806,Roger D. Kornberg,1947-04-24,Male,Stanford University,United States of America,"Stanford, CA",1
+896,807,Edmund S. Phelps,1933-07-26,Male,Columbia University,United States of America,"New York, NY",1
+897,808,Orhan Pamuk,1952-06-07,Male,,,,0
+898,802,Andrew Z. Fire,1959-04-27,Male,Stanford University School of Medicine,United States of America,"Stanford, CA",1
+899,803,Craig C. Mello,1960-10-19,Male,University of Massachusetts Medical School,United States of America,"Worcester, MA",1
+900,809,Muhammad Yunus,1940-06-28,Male,,,,0
+901,810,Grameen Bank,,,,,,0
+902,804,John C. Mather,1946-08-07,Male,NASA Goddard Space Flight Center,United States of America,"Greenbelt, MD",1
+903,805,George F. Smoot,1945-02-20,Male,University of California,United States of America,"Berkeley, CA",1
+904,816,Gerhard Ertl,1936-10-10,Male,Fritz-Haber-Institut der Max-Planck-Gesellschaft,Germany,Berlin,1
+905,820,Leonid Hurwicz,1917-08-21,Male,University of Minnesota,United States of America,"Minneapolis, MN",1
+906,821,Eric S. Maskin,1950-12-12,Male,Institute for Advanced Study,United States of America,"Princeton, NJ",1
+907,822,Roger B. Myerson,1951-03-29,Male,University of Chicago,United States of America,"Chicago, IL",1
+908,817,Doris Lessing,1919-10-22,Female,,,,0
+909,811,Mario R. Capecchi,1937-10-06,Male,University of Utah,United States of America,"Salt Lake City, UT",1
+910,811,Mario R. Capecchi,1937-10-06,Male,Howard Hughes Medical Institute,,,1
+911,811,Mario R. Capecchi,1937-10-06,Male,University of Utah,United States of America,"Salt Lake City, UT",1
+912,811,Mario R. Capecchi,1937-10-06,Male,Howard Hughes Medical Institute,,,1
+913,812,Sir Martin J. Evans,1941-01-01,Male,Cardiff University,United Kingdom,Cardiff,1
+914,813,Oliver Smithies,1925-06-23,Male,University of North Carolina,United States of America,"Chapel Hill, NC",1
+915,818,Intergovernmental Panel on Climate Change (IPCC),,,,,,0
+916,819,Albert Arnold (Al) Gore Jr.,1948-03-31,Male,,,,0
+917,814,Albert Fert,1938-03-07,Male,Universit&eacute; Paris-Sud,France,Orsay,1
+918,814,Albert Fert,1938-03-07,Male,Unit&eacute; Mixte de Physique CNRS/THALES,France,Orsay,1
+919,814,Albert Fert,1938-03-07,Male,Universit&eacute; Paris-Sud,France,Orsay,1
+920,814,Albert Fert,1938-03-07,Male,Unit&eacute; Mixte de Physique CNRS/THALES,France,Orsay,1
+921,815,Peter Grünberg,1939-05-18,Male,Forschungszentrum J&uuml;lich,Germany,J&uuml;lich,1
+922,829,Osamu Shimomura,1928-08-27,Male,Marine Biological Laboratory (MBL),United States of America,"Woods Hole, MA",1
+923,829,Osamu Shimomura,1928-08-27,Male,Boston University Medical School,United States of America,"Massachusetts, MA",1
+924,829,Osamu Shimomura,1928-08-27,Male,Marine Biological Laboratory (MBL),United States of America,"Woods Hole, MA",1
+925,829,Osamu Shimomura,1928-08-27,Male,Boston University Medical School,United States of America,"Massachusetts, MA",1
+926,830,Martin Chalfie,1947-01-15,Male,Columbia University,United States of America,"New York, NY",1
+927,831,Roger Y. Tsien,1952-02-01,Male,University of California,United States of America,"San Diego, CA",1
+928,831,Roger Y. Tsien,1952-02-01,Male,Howard Hughes Medical Institute,,,1
+929,831,Roger Y. Tsien,1952-02-01,Male,University of California,United States of America,"San Diego, CA",1
+930,831,Roger Y. Tsien,1952-02-01,Male,Howard Hughes Medical Institute,,,1
+931,834,Paul Krugman,1953-02-28,Male,Princeton University,United States of America,"Princeton, NJ",1
+932,832,Jean-Marie Gustave Le Clézio,1940-04-13,Male,,,,0
+933,823,Harald zur Hausen,1936-03-11,Male,German Cancer Research Center,Germany,Heidelberg,1
+934,824,Françoise Barré-Sinoussi,1947-07-30,Female,"Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur",France,Paris,1
+935,825,Luc Montagnier,1932-08-18,Male,World Foundation for AIDS Research and Prevention,France,Paris,1
+936,833,Martti Ahtisaari,1937-06-23,Male,,,,0
+937,826,Yoichiro Nambu,1921-01-18,Male,"Enrico Fermi Institute, University of Chicago",United States of America,"Chicago, IL",1
+938,827,Makoto Kobayashi,1944-04-07,Male,High Energy Accelerator Research Organization (KEK),Japan,Tsukuba,1
+939,828,Toshihide Maskawa,1940-02-07,Male,Kyoto Sangyo University,Japan,Kyoto,1
+940,828,Toshihide Maskawa,1940-02-07,Male,"Yukawa Institute for Theoretical Physics (YITP), Kyoto University",Japan,Kyoto,1
+941,828,Toshihide Maskawa,1940-02-07,Male,Kyoto Sangyo University,Japan,Kyoto,1
+942,828,Toshihide Maskawa,1940-02-07,Male,"Yukawa Institute for Theoretical Physics (YITP), Kyoto University",Japan,Kyoto,1
+943,841,Venkatraman Ramakrishnan,,Male,MRC Laboratory of Molecular Biology,United Kingdom,Cambridge,1
+944,842,Thomas A. Steitz,1940-08-23,Male,Yale University,United States of America,"New Haven, CT",1
+945,842,Thomas A. Steitz,1940-08-23,Male,Howard Hughes Medical Institute,,,1
+946,842,Thomas A. Steitz,1940-08-23,Male,Yale University,United States of America,"New Haven, CT",1
+947,842,Thomas A. Steitz,1940-08-23,Male,Howard Hughes Medical Institute,,,1
+948,843,Ada E. Yonath,1939-06-22,Female,Weizmann Institute of Science,Israel,Rehovot,1
+949,846,Elinor Ostrom,1933-08-07,Female,Indiana University,United States of America,"Bloomington, IN",1
+950,846,Elinor Ostrom,1933-08-07,Female,Arizona State University,United States of America,"Tempe, AZ",1
+951,846,Elinor Ostrom,1933-08-07,Female,Indiana University,United States of America,"Bloomington, IN",1
+952,846,Elinor Ostrom,1933-08-07,Female,Arizona State University,United States of America,"Tempe, AZ",1
+953,847,Oliver E. Williamson,1932-09-27,Male,University of California,United States of America,"Berkeley, CA",1
+954,844,Herta Müller,1953-08-17,Female,,,,0
+955,835,Elizabeth H. Blackburn,1948-11-26,Female,University of California,United States of America,"San Francisco, CA",1
+956,836,Carol W. Greider,1961-04-15,Female,Johns Hopkins University School of Medicine,United States of America,"Baltimore, MD",1
+957,837,Jack W. Szostak,1952-11-09,Male,Harvard Medical School,United States of America,"Boston, MA",1
+958,837,Jack W. Szostak,1952-11-09,Male,Massachusetts General Hospital,United States of America,"Boston, MA",1
+959,837,Jack W. Szostak,1952-11-09,Male,Howard Hughes Medical Institute,,,1
+960,837,Jack W. Szostak,1952-11-09,Male,Harvard Medical School,United States of America,"Boston, MA",1
+961,837,Jack W. Szostak,1952-11-09,Male,Massachusetts General Hospital,United States of America,"Boston, MA",1
+962,837,Jack W. Szostak,1952-11-09,Male,Howard Hughes Medical Institute,,,1
+963,837,Jack W. Szostak,1952-11-09,Male,Harvard Medical School,United States of America,"Boston, MA",1
+964,837,Jack W. Szostak,1952-11-09,Male,Massachusetts General Hospital,United States of America,"Boston, MA",1
+965,837,Jack W. Szostak,1952-11-09,Male,Howard Hughes Medical Institute,,,1
+966,845,Barack H. Obama,1961-08-04,Male,,,,0
+967,838,Charles Kuen Kao,1933-11-04,Male,Standard Telecommunication Laboratories,United Kingdom,Harlow,1
+968,838,Charles Kuen Kao,1933-11-04,Male,Chinese University of Hong Kong,China,Hong Kong,1
+969,838,Charles Kuen Kao,1933-11-04,Male,Standard Telecommunication Laboratories,United Kingdom,Harlow,1
+970,838,Charles Kuen Kao,1933-11-04,Male,Chinese University of Hong Kong,China,Hong Kong,1
+971,839,Willard S. Boyle,1924-08-19,Male,Bell Laboratories,United States of America,"Murray Hill, NJ",1
+972,840,George E. Smith,1930-05-10,Male,Bell Laboratories,United States of America,"Murray Hill, NJ",1
+973,851,Richard F. Heck,1931-08-15,Male,University of Delaware,United States of America,,1
+974,852,Ei-ichi Negishi,1935-07-14,Male,Purdue University,United States of America,"West Lafayette, IN",1
+975,853,Akira Suzuki,1930-09-12,Male,Hokkaido University,Japan,Sapporo,1
+976,856,Peter A. Diamond,1940-04-29,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+977,857,Dale T. Mortensen,1939-02-02,Male,Northwestern University,United States of America,"Evanston, IL",1
+978,857,Dale T. Mortensen,1939-02-02,Male,Aarhus University,Denmark,Aarhus,1
+979,857,Dale T. Mortensen,1939-02-02,Male,Northwestern University,United States of America,"Evanston, IL",1
+980,857,Dale T. Mortensen,1939-02-02,Male,Aarhus University,Denmark,Aarhus,1
+981,858,Christopher A. Pissarides,1948-02-20,Male,London School of Economics and Political Science,United Kingdom,London,1
+982,854,Mario Vargas Llosa,1936-03-28,Male,,,,0
+983,848,Robert G. Edwards,1925-09-27,Male,University of Cambridge,United Kingdom,Cambridge,1
+984,855,Liu Xiaobo,1955-12-28,Male,,,,0
+985,849,Andre Geim,1958-10-21,Male,University of Manchester,United Kingdom,Manchester,1
+986,850,Konstantin Novoselov,1974-08-23,Male,University of Manchester,United Kingdom,Manchester,1
+987,867,Dan Shechtman,1941-01-24,Male,Technion - Israel Institute of Technology,Israel,Haifa,1
+988,872,Thomas J. Sargent,1943-07-19,Male,New York University,United States of America,"New York, NY",1
+989,873,Christopher A. Sims,1942-10-21,Male,Princeton University,United States of America,"Princeton, NJ",1
+990,868,Tomas Tranströmer,1931-04-15,Male,,,,0
+991,861,Bruce A. Beutler,1957-12-29,Male,University of Texas Southwestern Medical Center at Dallas,United States of America,"Dallas, TX",1
+992,861,Bruce A. Beutler,1957-12-29,Male,The Scripps Research Institute,United States of America,"La Jolla, CA",1
+993,861,Bruce A. Beutler,1957-12-29,Male,University of Texas Southwestern Medical Center at Dallas,United States of America,"Dallas, TX",1
+994,861,Bruce A. Beutler,1957-12-29,Male,The Scripps Research Institute,United States of America,"La Jolla, CA",1
+995,862,Jules A. Hoffmann,1941-08-02,Male,University of Strasbourg,France,Strasbourg,1
+996,863,Ralph M. Steinman,1943-01-14,Male,Rockefeller University,United States of America,"New York, NY",1
+997,869,Ellen Johnson Sirleaf,1938-10-29,Female,,,,0
+998,870,Leymah Gbowee,1972-02-01,Female,,,,0
+999,871,Tawakkol Karman,1979-02-07,Female,,,,0
+1000,864,Saul Perlmutter,,Male,Lawrence Berkeley National Laboratory,United States of America,"Berkeley, CA",1
+1001,864,Saul Perlmutter,,Male,University of California,United States of America,"Berkeley, CA",1
+1002,864,Saul Perlmutter,,Male,Lawrence Berkeley National Laboratory,United States of America,"Berkeley, CA",1
+1003,864,Saul Perlmutter,,Male,University of California,United States of America,"Berkeley, CA",1
+1004,865,Brian P. Schmidt,1967-02-24,Male,Australian National University,Australia,Weston Creek,1
+1005,866,Adam G. Riess,1969-12-16,Male,Johns Hopkins University,United States of America,"Baltimore, MD",1
+1006,866,Adam G. Riess,1969-12-16,Male,Space Telescope Science Institute,United States of America,"Baltimore, MD",1
+1007,866,Adam G. Riess,1969-12-16,Male,Johns Hopkins University,United States of America,"Baltimore, MD",1
+1008,866,Adam G. Riess,1969-12-16,Male,Space Telescope Science Institute,United States of America,"Baltimore, MD",1
+1009,878,Robert J. Lefkowitz,1943-04-15,Male,Howard Hughes Medical Institute,,,1
+1010,878,Robert J. Lefkowitz,1943-04-15,Male,Duke University Medical Center,United States of America,"Durham, NC",1
+1011,878,Robert J. Lefkowitz,1943-04-15,Male,Howard Hughes Medical Institute,,,1
+1012,878,Robert J. Lefkowitz,1943-04-15,Male,Duke University Medical Center,United States of America,"Durham, NC",1
+1013,879,Brian K. Kobilka,1955-05-30,Male,Stanford University School of Medicine,United States of America,"Stanford, CA",1
+1014,882,Alvin E. Roth,1951-12-18,Male,Harvard University,United States of America,"Cambridge, MA",1
+1015,882,Alvin E. Roth,1951-12-18,Male,Harvard Business School,United States of America,"Boston, MA",1
+1016,882,Alvin E. Roth,1951-12-18,Male,Harvard University,United States of America,"Cambridge, MA",1
+1017,882,Alvin E. Roth,1951-12-18,Male,Harvard Business School,United States of America,"Boston, MA",1
+1018,883,Lloyd S. Shapley,1923-06-02,Male,University of California,United States of America,"Los Angeles, CA",1
+1019,880,Mo Yan,1955-02-02,Male,,,,0
+1020,874,Sir John B. Gurdon,1933-10-02,Male,Gurdon Institute,United Kingdom,Cambridge,1
+1021,875,Shinya Yamanaka,1962-09-04,Male,Kyoto University,Japan,Kyoto,1
+1022,875,Shinya Yamanaka,1962-09-04,Male,Gladstone Institutes,United States of America,"San Francisco, CA",1
+1023,875,Shinya Yamanaka,1962-09-04,Male,Kyoto University,Japan,Kyoto,1
+1024,875,Shinya Yamanaka,1962-09-04,Male,Gladstone Institutes,United States of America,"San Francisco, CA",1
+1025,881,European Union (EU),,,,,,0
+1026,876,Serge Haroche,1944-09-11,Male,Collège de France,France,Paris,1
+1027,876,Serge Haroche,1944-09-11,Male,École Normale Supérieure,France,Paris,1
+1028,876,Serge Haroche,1944-09-11,Male,Collège de France,France,Paris,1
+1029,876,Serge Haroche,1944-09-11,Male,École Normale Supérieure,France,Paris,1
+1030,877,David J. Wineland,1944-02-24,Male,National Institute of Standards and Technology,United States of America,"Boulder, CO",1
+1031,877,David J. Wineland,1944-02-24,Male,University of Colorado,United States of America,"Boulder, CO",1
+1032,877,David J. Wineland,1944-02-24,Male,National Institute of Standards and Technology,United States of America,"Boulder, CO",1
+1033,877,David J. Wineland,1944-02-24,Male,University of Colorado,United States of America,"Boulder, CO",1
+1034,889,Martin Karplus,1930-03-15,Male,Université de Strasbourg,France,Strasbourg,1
+1035,889,Martin Karplus,1930-03-15,Male,Harvard University,United States of America,"Cambridge, MA",1
+1036,889,Martin Karplus,1930-03-15,Male,Université de Strasbourg,France,Strasbourg,1
+1037,889,Martin Karplus,1930-03-15,Male,Harvard University,United States of America,"Cambridge, MA",1
+1038,890,Michael Levitt,1947-05-09,Male,Stanford University School of Medicine,United States of America,"Stanford, CA",1
+1039,891,Arieh Warshel,1940-11-20,Male,University of Southern California,United States of America,"Los Angeles, CA",1
+1040,894,Eugene F. Fama,1939-02-14,Male,University of Chicago,United States of America,"Chicago, IL",1
+1041,895,Lars Peter Hansen,1952-10-26,Male,University of Chicago,United States of America,"Chicago, IL",1
+1042,896,Robert J. Shiller,1946-03-29,Male,Yale University,United States of America,"New Haven, CT",1
+1043,892,Alice Munro,1931-07-10,Female,,,,0
+1044,884,James E. Rothman,1950-11-03,Male,Yale University,United States of America,"New Haven, CT",1
+1045,885,Randy W. Schekman,1948-12-30,Male,University of California,United States of America,"Berkeley, CA",1
+1046,885,Randy W. Schekman,1948-12-30,Male,Howard Hughes Medical Institute,,,1
+1047,885,Randy W. Schekman,1948-12-30,Male,University of California,United States of America,"Berkeley, CA",1
+1048,885,Randy W. Schekman,1948-12-30,Male,Howard Hughes Medical Institute,,,1
+1049,886,Thomas C. Südhof,1955-12-22,Male,Stanford University,United States of America,"Stanford, CA",1
+1050,886,Thomas C. Südhof,1955-12-22,Male,Howard Hughes Medical Institute,,,1
+1051,886,Thomas C. Südhof,1955-12-22,Male,Stanford University,United States of America,"Stanford, CA",1
+1052,886,Thomas C. Südhof,1955-12-22,Male,Howard Hughes Medical Institute,,,1
+1053,893,Organisation for the Prohibition of Chemical Weapons (OPCW),,,,,,0
+1054,887,François Englert,1932-11-06,Male,Université Libre de Bruxelles,Belgium,Brussels,1
+1055,888,Peter W. Higgs,1929-05-29,Male,University of Edinburgh,United Kingdom,Edinburgh,1
+1056,909,Eric Betzig,1960-01-13,Male,"Janelia Research Campus, Howard Hughes Medical Institute",United States of America,"Ashburn, VA",1
+1057,910,Stefan W. Hell,1962-12-23,Male,Max Planck Institute for Biophysical Chemistry,Germany,Göttingen,1
+1058,910,Stefan W. Hell,1962-12-23,Male,German Cancer Research Center,Germany,Heidelberg,1
+1059,910,Stefan W. Hell,1962-12-23,Male,Max Planck Institute for Biophysical Chemistry,Germany,Göttingen,1
+1060,910,Stefan W. Hell,1962-12-23,Male,German Cancer Research Center,Germany,Heidelberg,1
+1061,911,William E. Moerner,1953-06-24,Male,Stanford University,United States of America,"Stanford, CA",1
+1062,915,Jean Tirole,1953-08-09,Male,Toulouse School of Economics (TSE),France,Toulouse,1
+1063,912,Patrick Modiano,1945-07-30,Male,,,,0
+1064,903,John O'Keefe,1939-11-18,Male,University College,United Kingdom,London,1
+1065,904,May-Britt Moser,1963-01-04,Female,Norwegian University of Science and Technology (NTNU),Norway,Trondheim,1
+1066,905,Edvard I. Moser,1962-04-27,Male,Norwegian University of Science and Technology (NTNU),Norway,Trondheim,1
+1067,913,Kailash Satyarthi,1954-01-11,Male,,,,0
+1068,914,Malala Yousafzai,1997-07-12,Female,,,,0
+1069,906,Isamu Akasaki,1929-01-30,Male,Meijo University,Japan,Nagoya,1
+1070,906,Isamu Akasaki,1929-01-30,Male,Nagoya University,Japan,Nagoya,1
+1071,906,Isamu Akasaki,1929-01-30,Male,Meijo University,Japan,Nagoya,1
+1072,906,Isamu Akasaki,1929-01-30,Male,Nagoya University,Japan,Nagoya,1
+1073,907,Hiroshi Amano,1960-09-11,Male,Nagoya University,Japan,Nagoya,1
+1074,908,Shuji Nakamura,1954-05-22,Male,University of California,United States of America,"Santa Barbara, CA",1
+1075,921,Tomas Lindahl,1938-01-28,Male,Francis Crick Institute,United Kingdom,Hertfordshire,1
+1076,921,Tomas Lindahl,1938-01-28,Male,Clare Hall Laboratory,United Kingdom,Hertfordshire,1
+1077,921,Tomas Lindahl,1938-01-28,Male,Francis Crick Institute,United Kingdom,Hertfordshire,1
+1078,921,Tomas Lindahl,1938-01-28,Male,Clare Hall Laboratory,United Kingdom,Hertfordshire,1
+1079,922,Paul Modrich,1946-06-13,Male,Howard Hughes Medical Institute,United States of America,"Durham, NC",1
+1080,922,Paul Modrich,1946-06-13,Male,Duke University School of Medicine,United States of America,"Durham, NC",1
+1081,922,Paul Modrich,1946-06-13,Male,Howard Hughes Medical Institute,United States of America,"Durham, NC",1
+1082,922,Paul Modrich,1946-06-13,Male,Duke University School of Medicine,United States of America,"Durham, NC",1
+1083,923,Aziz Sancar,1946-09-08,Male,University of North Carolina,United States of America,"Chapel Hill, NC",1
+1084,926,Angus Deaton,1945-10-19,Male,Princeton University,United States of America,"Princeton, NJ",1
+1085,924,Svetlana Alexievich,1948-05-31,Female,,,,0
+1086,916,William C. Campbell,1930-06-28,Male,Drew University,United States of America,"Madison, NJ",1
+1087,917,Satoshi Ōmura,1935-07-12,Male,Kitasato University,Japan,Tokyo,1
+1088,918,Youyou Tu,1930-12-30,Female,China Academy of Traditional Chinese Medicine,China,Beijing,1
+1089,925,National Dialogue Quartet,,,,,,0
+1090,919,Takaaki Kajita,1959-03-09,Male,University of Tokyo,Japan,Kashiwa,1
+1091,920,Arthur B. McDonald,1943-08-29,Male,Queen's University,Canada,Kingston,1
+1092,931,Jean-Pierre Sauvage,1944-10-21,Male,University of Strasbourg,France,Strasbourg,1
+1093,932,Sir J. Fraser Stoddart,1942-05-24,Male,Northwestern University,United States of America,"Evanston, IL",1
+1094,933,Bernard L. Feringa,1951-05-18,Male,University of Groningen,Netherlands,Groningen,1
+1095,935,Oliver Hart,1948-10-09,Male,Harvard University,United States of America,"Cambridge, MA",1
+1096,936,Bengt Holmström,1949-04-18,Male,Massachusetts Institute of Technology (MIT),United States of America,"Cambridge, MA",1
+1097,937,Bob Dylan,1941-05-24,Male,,,,0
+1098,927,Yoshinori Ohsumi,1945-02-09,Male,Tokyo Institute of Technology,Japan,Tokyo,1
+1099,934,Juan Manuel Santos,1951-08-10,Male,,,,0
+1100,928,David J. Thouless,1934-09-21,Male,University of Washington,United States of America,"Seattle, WA",1
+1101,929,F. Duncan M. Haldane,1951-09-14,Male,Princeton University,United States of America,"Princeton, NJ",1
+1102,930,J. Michael Kosterlitz,1943-06-22,Male,Brown University,United States of America,"Providence, RI",1
