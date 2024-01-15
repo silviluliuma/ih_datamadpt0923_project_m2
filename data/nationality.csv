@@ -1,0 +1,970 @@
+,Laureate_ID,Birth_City,Birth_Country
+0,160,Rotterdam,Netherlands
+1,569,Paris,France
+2,293,Hansdorf (Lawice),Prussia (Poland)
+3,462,Geneva,Switzerland
+4,463,Paris,France
+5,1,Lennep (Remscheid),Prussia (Germany)
+6,161,Euskirchen,Prussia (Germany)
+7,571,Garding,Schleswig (Germany)
+8,294,Almora,India
+9,464,Geneva,Switzerland
+10,465,Tramelan,Switzerland
+11,2,Arnhem,Netherlands
+12,3,Zonnemaire,Netherlands
+13,162,Vik,Sweden
+14,572,Kvikne,Norway
+15,295,Thorshavn,Faroe Islands (Denmark)
+16,466,Fareham,United Kingdom
+17,4,Paris,France
+18,5,Paris,France
+19,6,Warsaw,Russian Empire (Poland)
+20,163,Glasgow,Scotland
+21,573,Maillane,France
+22,574,Madrid,Spain
+23,296,Ryazan,Russia
+24,467,,
+25,8,"Langford Grove, Maldon, Essex",United Kingdom
+26,164,Berlin,Prussia (Germany)
+27,575,Wola Okrzejska,Poland
+28,297,Clausthal (Clausthal-Zellerfeld),Germany
+29,468,Prague,Austrian Empire (Czech Republic)
+30,9,Pressburg (Bratislava),Hungary (Slovakia)
+31,165,Paris,France
+32,576,Val di Castello,Tuscany (Italy)
+33,298,Corteno,Italy
+34,299,Petilla de Aragó,Spain
+35,470,"New York, NY",United States of America
+36,10,"Cheetham Hill, near Manchester",United Kingdom
+37,166,Munich,Bavaria (Germany)
+38,577,Bombay,British India (India)
+39,300,Paris,France
+40,471,Milan,Austrian Empire (Italy)
+41,472,Autun,France
+42,11,Strelno (Strzelno),Prussia (Poland)
+43,167,Nelson,New Zealand
+44,578,Aurich,East Friesland (Germany)
+45,301,Kharkov (Kharkiv),Russian Empire (Ukraine)
+46,302,Strehlen (Strzelin),Prussia (Poland)
+47,302,Strehlen (Strzelin),Prussia (Poland)
+48,473,Gothenburg,Sweden
+49,474,Næstved,Denmark
+50,12,Hollerich,Luxembourg
+51,168,Riga,Russian Empire (Latvia)
+52,579,Mårbacka,Sweden
+53,303,Berne,Switzerland
+54,475,Ostend,Belgium
+55,476,La Flèche,France
+56,13,Bologna,Italy
+57,14,Fulda,Hesse-Kassel (Germany)
+58,169,Koenigsberg (Kaliningrad),Germany (Russia)
+59,580,Berlin,Prussia (Germany)
+60,304,Rostock,Mecklenburg (Germany)
+61,477,,
+62,15,Leiden,Netherlands
+63,6,Warsaw,Russian Empire (Poland)
+64,581,Ghent,Belgium
+65,305,Landskrona,Sweden
+66,478,Amsterdam,Netherlands
+67,479,Vienna,Austria
+68,16,Gaffken (Parusnoye),Prussia (Russia)
+69,172,Cherbourg,France
+70,173,Carcassonne,France
+71,582,Bad Salzbrunn,Prussia (Germany)
+72,306,Sainte-Foy-lès-Lyon,France
+73,480,"Clinton, NY",United States of America
+74,17,Stenstorp,Sweden
+75,174,Mulhouse,France
+76,583,Calcutta,India
+77,307,Paris,France
+78,481,Brussels,Belgium
+79,18,Groningen,Netherlands
+80,175,"Germantown, PA",United States of America
+81,308,Vienna,Austria
+82,19,Pfaffendorf,Germany
+83,176,Karlsruhe,Germany
+84,584,Clamecy,France
+85,20,Wigton,United Kingdom
+86,21,Adelaide,Australia
+87,585,Olshammar,Sweden
+88,586,Roholte,Denmark
+89,587,Fredericia,Denmark
+90,482,,
+91,22,Widnes,United Kingdom
+92,177,Breslau (Wroclaw),Prussia (Poland)
+93,23,Kiel,Schleswig (Germany)
+94,588,Liestal,Switzerland
+95,309,Soignies,Belgium
+96,483,"Staunton, VA",United States of America
+97,24,Schickenhof,Germany
+98,178,Briesen,Prussia (Germany)
+99,589,Lom,Norway
+100,310,Grenå,Denmark
+101,484,Paris,France
+102,25,Fleurier,Switzerland
+103,179,Eastbourne,United Kingdom
+104,590,Paris,France
+105,485,Stockholm,Sweden
+106,486,Stavanger,Norway
+107,26,Ulm,Germany
+108,180,Harborne,United Kingdom
+109,592,Madrid,Spain
+110,311,Bristol,United Kingdom
+111,312,Hanover,Germany
+112,487,Kristiania (Oslo),Norway
+113,27,Copenhagen,Denmark
+114,181,Laibach (Ljubljana),Austria-Hungary (Slovenia)
+115,593,Dublin,Ireland
+116,313,Alliston,Canada
+117,314,Cluny,Scotland
+118,28,"Morrison, IL",United States of America
+119,594,Kobiele Wielkie,Russian Empire (Poland)
+120,315,Semarang,"Java, Dutch East Indies (Indonesia)"
+121,29,Lund,Sweden
+122,182,Vienna,Austrian Empire (Austria)
+123,596,Dublin,Ireland
+124,488,Birmingham,United Kingdom
+125,489,"Marietta, OH",United States of America
+126,30,Hamburg,Germany
+127,31,Hamburg,Germany
+128,183,Fleräng,Sweden
+129,597,"Nuoro, Sardinia",Italy
+130,316,Silkeborg,Denmark
+131,490,Nantes,France
+132,491,Berlin,Germany
+133,32,Lille,France
+134,184,Pforzheim,Germany
+135,600,Paris,France
+136,317,Wels,Austria
+137,492,Paris,France
+138,493,Bremen,Germany
+139,33,"Wooster, OH",United States of America
+140,34,Glencorse,Scotland
+141,185,Berlin,Germany
+142,601,Kalundborg,Denmark
+143,318,Rouen,France
+144,35,Dewsbury,United Kingdom
+145,186,Manchester,United Kingdom
+146,187,Augsburg,Germany
+147,602,Lübeck,Germany
+148,319,Nijkerk,Netherlands
+149,320,Eastbourne,United Kingdom
+150,494,"Potsdam, NY",United States of America
+151,36,Dieppe,France
+152,188,Hoechst,Germany
+153,603,"Sauk Centre, MN",United States of America
+154,321,Vienna,Austrian Empire (Austria)
+155,495,Trönö,Sweden
+156,37,Tiruchirappalli,India
+157,189,Cologne,Germany
+158,189,Cologne,Germany
+159,190,"Goldschmieden, near Breslau",Germany (Poland)
+160,190,"Goldschmieden, near Breslau",Germany (Poland)
+161,604,Karlbo,Sweden
+162,322,Freiburg im Breisgau,Germany
+163,496,"Cedarville, IL",United States of America
+164,497,"Elizabeth, NJ",United States of America
+165,191,"Brooklyn, NY",United States of America
+166,605,Kingston Hill,United Kingdom
+167,323,London,United Kingdom
+168,324,London,United Kingdom
+169,38,Würzburg,Germany
+170,606,Voronezh,Russia
+171,325,"Lexington, KY",United States of America
+172,498,Holbeach,United Kingdom
+173,39,Vienna,Austria
+174,40,Bristol,United Kingdom
+175,192,"Walkerton, IN",United States of America
+176,607,"Agrigento, Sicily",Italy
+177,326,"Ashland, NH",United States of America
+178,327,"Boston, MA",United States of America
+179,328,"Stoughton, WI",United States of America
+180,328,"Stoughton, WI",United States of America
+181,499,Glasgow,Scotland
+182,193,Paris,France
+183,194,Paris,France
+184,329,Stuttgart,W&uuml;rttemberg (Germany)
+185,500,Hamburg,Germany
+186,41,Manchester,United Kingdom
+187,195,Maastricht,Netherlands
+188,195,Maastricht,Netherlands
+189,608,"New York, NY",United States of America
+190,330,London,United Kingdom
+191,331,Frankfurt-on-the-Main,Germany
+192,501,Buenos Aires,Argentina
+193,42,Peggau,Austria
+194,43,"New York, NY",United States of America
+195,196,Chorley,United Kingdom
+196,197,Moscow,Russia
+197,609,Neuilly-sur-Seine,France
+198,332,Budapest,Austria-Hungary (Hungary)
+199,502,London,United Kingdom
+200,44,"Bloomington, IL",United States of America
+201,45,Cambridge,United Kingdom
+202,198,Vienna,Austria-Hungary (Austria)
+203,198,Vienna,Austria-Hungary (Austria)
+204,610,"Hillsboro, WV",United States of America
+205,333,Ghent,Belgium
+206,503,,
+207,46,Rome,Italy
+208,199,Bremerhaven-Lehe,Germany
+209,199,Bremerhaven-Lehe,Germany
+210,200,Vukovar,Austria-Hungary (Croatia)
+211,613,Hämeenkyrö,Russian Empire (Finland)
+212,334,Lagow,Germany (Poland)
+213,47,"Canton, SD",United States of America
+214,201,Budapest,Austria-Hungary (Hungary)
+215,335,Copenhagen,Denmark
+216,336,"Hume, IL",United States of America
+217,48,Sorau (Zory),Germany (Poland)
+218,202,Frankfurt-on-the-Main,Germany
+219,614,Farsø,Denmark
+220,337,"San Francisco, CA",United States of America
+221,338,"Platteville, WI",United States of America
+222,482,,
+223,49,Rymanow,Austria-Hungary (Poland)
+224,203,Helsinki,Russian Empire (Finland)
+225,615,Vicuña,Chile
+226,339,Lochfield,Scotland
+227,340,Berlin,Germany
+228,341,Adelaide,Australia
+229,505,"Olympus, TN",United States of America
+230,50,Vienna,Austria
+231,204,"Canton, MA",United States of America
+232,205,"Yonkers, NY",United States of America
+233,206,"Ridgeville, IN",United States of America
+234,617,Calw,Germany
+235,342,"New York, NY",United States of America
+236,506,"Jamaica Plain, MA (Boston)",United States of America
+237,507,"Livingston Manor, NY",United States of America
+238,51,"Cambridge, MA",United States of America
+239,207,"Rufford, near Chesterfield",United Kingdom
+240,618,Paris,France
+241,343,Prague,Austria-Hungary (Czech Republic)
+242,344,Prague,Austria-Hungary (Czech Republic)
+243,345,Buenos Aires,Argentina
+244,508,,
+245,509,,
+246,52,Bradford,United Kingdom
+247,208,Stockholm,Sweden
+248,619,"St. Louis, MO",United States of America
+249,346,Olten,Switzerland
+250,53,London,United Kingdom
+251,209,Niagara Falls,Canada
+252,620,"New Albany, MS",United States of America
+253,347,Frauenfeld,Switzerland
+254,348,Avanca,Portugal
+255,348,Avanca,Portugal
+256,510,Kilmaurs,Scotland
+257,54,Tokyo,Japan
+258,54,Tokyo,Japan
+259,210,Hamburg,Germany
+260,211,Königshütte (Chorzów),Prussia (Poland)
+261,621,Trelleck,United Kingdom
+262,349,"South Norwalk, CT",United States of America
+263,350,Wloclawek,Poland
+264,351,"Pittsburgh, PA",United States of America
+265,511,"Detroit, MI",United States of America
+266,55,Tonbridge,United Kingdom
+267,212,"Redondo Beach, CA",United States of America
+268,213,"Ishpeming, MI",United States of America
+269,622,Växjö,Sweden
+270,352,Pretoria,South Africa
+271,512,Paris,France
+272,56,Todmorden,United Kingdom
+273,57,Dungarvan,Ireland
+274,214,London,United Kingdom
+275,215,Liverpool,United Kingdom
+276,623,Bordeaux,France
+277,353,Priluka (Nova Pryluka),Russian Empire (Ukraine)
+278,513,Kaysersberg,Germany (France)
+279,58,Zurich,Switzerland
+280,59,"Taylorville, IL",United States of America
+281,216,Worms,Germany
+282,216,Worms,Germany
+283,624,Woodstock,United Kingdom
+284,354,Hildesheim,Germany
+285,355,Koenigsberg (Kaliningrad),Germany (Russia)
+286,355,Koenigsberg (Kaliningrad),Germany (Russia)
+287,514,"Uniontown, PA",United States of America
+288,60,Amsterdam,Netherlands
+289,217,"Portland, OR",United States of America
+290,625,"Oak Park, IL",United States of America
+291,356,"West Hartford, CT",United States of America
+292,356,"West Hartford, CT",United States of America
+293,357,"Ann Arbor, MI",United States of America
+294,358,"Auburn, AL",United States of America
+295,515,,
+296,61,Breslau (Wroclaw),Germany (Poland)
+297,62,Oranienburg,Germany
+298,62,Oranienburg,Germany
+299,218,"Chicago, IL",United States of America
+300,626,Reykjavik,Iceland
+301,359,Linköping,Sweden
+302,63,"Los Angeles, CA",United States of America
+303,64,Blankenburg,Germany
+304,219,London,United Kingdom
+305,220,Saratov,Russia
+306,627,Moguer,Spain
+307,360,Paris,France
+308,361,Berlin,Germany
+309,361,Berlin,Germany
+310,362,"Orange, NJ",United States of America
+311,65,London,United Kingdom
+312,66,"Madison, WI",United States of America
+313,67,Amoy,China
+314,221,Glasgow,Scotland
+315,628,Mondovi,French Algeria (Algeria)
+316,363,Neuchâtel,Switzerland
+317,516,Toronto,Canada
+318,68,"Hofei, Anhwei",China
+319,69,Shanghai,China
+320,222,Rendcombe,United Kingdom
+321,629,Moscow,Russia
+322,364,"Wahoo, NE",United States of America
+323,365,"Boulder, CO",United States of America
+324,366,"Montclair, NJ",United States of America
+325,517,Dinant,Belgium
+326,70,Novaya Chigla,Russia
+327,71,Vladivostok,Russia
+328,71,Vladivostok,Russia
+329,721,Leningrad (Saint Petersburg),Russia
+330,721,Leningrad (Saint Petersburg),Russia
+331,223,Prague,Austria-Hungary (Czech Republic)
+332,630,Modica,Italy
+333,367,Luarca,Spain
+334,368,"Brooklyn, NY",United States of America
+335,518,London,United Kingdom
+336,72,Tivoli,Italy
+337,73,"San Francisco, CA",United States of America
+338,224,"Grand Valley, CO",United States of America
+339,631,Pointe-à-Pitre,Guadeloupe Island
+340,369,Traralgon,Australia
+341,370,Rio de Janeiro,Brazil
+342,519,Bulawayo,Southern Rhodesia (Zimbabwe)
+343,74,"Cleveland, OH",United States of America
+344,225,"St. Paul, MN",United States of America
+345,633,Dolac,Bosnia (Bosnia and Herzegovina)
+346,371,Budapest,Hungary
+347,520,Jönköping,Sweden
+348,75,"New York, NY",United States of America
+349,76,Munich,Germany
+350,76,Munich,Germany
+351,226,Vienna,Austria
+352,227,Oxford,United Kingdom
+353,634,"Salinas, CA",United States of America
+354,372,Northampton,United Kingdom
+355,373,"Chicago, IL",United States of America
+356,374,Pongaroa,New Zealand
+357,217,"Portland, OR",United States of America
+358,77,Baku,Russian Empire (Azerbaijan)
+359,228,Helsa,Germany
+360,229,Imperia,Italy
+361,635,Smyrna (Izmir),Ottoman Empire (Turkey)
+362,375,Melbourne,Australia
+363,376,Banbury,United Kingdom
+364,377,Hampstead,United Kingdom
+365,482,,
+366,523,,
+367,78,Budapest,Austria-Hungary (Hungary)
+368,79,Kattowitz (Katowice),Germany (Poland)
+369,80,Hamburg,Germany
+370,230,Cairo,Egypt
+371,637,Paris,France
+372,378,Neisse (Nysa),Germany (Poland)
+373,379,Munich,Germany
+374,524,"Atlanta, GA",United States of America
+375,81,"Greenville, SC",United States of America
+376,82,Usman,Union of Soviet Socialist Republics (Russia)
+377,83,Atherton,Australia
+378,231,"Boston, MA",United States of America
+379,638,Veshenskaya,Russia
+380,380,Nancy,France
+381,381,Ainay-le-Château,France
+382,382,Paris,France
+383,525,,
+384,84,Kyoto,Japan
+385,85,"New York, NY",United States of America
+386,86,"New York, NY",United States of America
+387,232,"Newburyport, MA",United States of America
+388,639,Buczacz (Buchach),Austria-Hungary (Ukraine)
+389,640,Berlin,Germany
+390,383,"Baltimore, MD",United States of America
+391,384,Halifax,Canada
+392,87,Guebwiller,Germany (France)
+393,233,Bochum,Germany
+394,234,Cambridge,United Kingdom
+395,235,Stainforth,United Kingdom
+396,641,Guatemala City,Guatemala
+397,385,Helsinki,Russian Empire (Finland)
+398,386,"Bloomsburg, PA",United States of America
+399,387,"New York, NY",United States of America
+400,88,Strassburg (Strasbourg),Germany (France)
+401,236,Kristiania (Oslo),Norway
+402,642,Osaka,Japan
+403,388,"Urbana, IL",United States of America
+404,389,Raipur,India
+405,390,"New York, NY",United States of America
+406,526,Bayonne,France
+407,89,"San Francisco, CA",United States of America
+408,237,Gravesend,United Kingdom
+409,238,Kristiania (Oslo),Norway
+410,677,Oslo,Norway
+411,678,the Hague,Netherlands
+412,643,Dublin,Ireland
+413,391,Berlin,Germany
+414,392,"Owosso, MI",United States of America
+415,393,Torino,Italy
+416,527,,
+417,90,"New York, NY",United States of America
+418,239,Paris,France
+419,679,"Gary, IN",United States of America
+420,644,Kislovodsk,Russia
+421,394,Leipzig,Germany
+422,395,Stockholm,Sweden
+423,396,"New York, NY",United States of America
+424,528,"Cresco, IA",United States of America
+425,91,Norrköping,Sweden
+426,92,Lyon,France
+427,240,Hamburg,Germany
+428,680,Pinsk,Russian Empire (Belarus)
+429,645,Parral,Chile
+430,397,"Burlingame, KS",United States of America
+431,529,Lübeck,Germany
+432,93,Budapest,Hungary
+433,241,"Monessen, PA",United States of America
+434,242,"Chicago, IL",United States of America
+435,243,"New York, NY",United States of America
+436,681,Warwick,United Kingdom
+437,682,"New York, NY",United States of America
+438,647,Cologne,Germany
+439,398,"New York, NY",United States of America
+440,399,Newton-le-Willows,United Kingdom
+441,66,"Madison, WI",United States of America
+442,95,"New York, NY",United States of America
+443,96,"Oak Park, IL",United States of America
+444,244,Munich,Germany
+445,245,Todmorden,United Kingdom
+446,683,St. Petersburg,Russia
+447,648,London,United Kingdom
+448,400,Vienna,Austria
+449,401,Vienna,Austria
+450,402,the Hague,Netherlands
+451,530,Fürth,Germany
+452,531,Nam Ha province,Vietnam
+453,97,Osaka,Japan
+454,98,Bergen,Norway
+455,99,Cardiff,United Kingdom
+456,246,"Sterling, IL",United States of America
+457,684,Skattungbyn,Sweden
+458,685,Vienna,Austria
+459,649,Svartbjörnsbyn,Sweden
+460,650,Jämshög,Sweden
+461,403,Longlier,Belgium
+462,404,Thames Ditton,United Kingdom
+463,404,Thames Ditton,United Kingdom
+464,405,Iasi,Romania
+465,532,Paris,France
+466,533,Tabuse,Japan
+467,100,Brighton,United Kingdom
+468,101,Fowey,United Kingdom
+469,247,Sydney,Australia
+470,248,Sarajevo,Austria-Hungary (Bosnia and Herzegovina)
+471,686,St. Petersburg,Russian Empire (Russia)
+472,687,'s Graveland,Netherlands
+473,651,Genoa,Italy
+474,406,"New York, NY",United States of America
+475,407,Catanzaro,Italy
+476,408,"Philadelphia, PA",United States of America
+477,534,Moscow,Russia
+478,102,Copenhagen,Denmark
+479,103,"Chicago, IL",United States of America
+480,104,"Council, ID",United States of America
+481,249,"Cleveland, OH",United States of America
+482,688,"Brooklyn, NY",United States of America
+483,652,Montreal,Canada
+484,409,"New York, NY",United States of America
+485,410,"Yonkers, NY",United States of America
+486,535,Belfast,Northern Ireland
+487,536,Belfast,Northern Ireland
+488,105,"Brooklyn, NY",United States of America
+489,106,"Ann Arbor, MI",United States of America
+490,250,Moscow,Russia
+491,250,Moscow,Russia
+492,689,Klippan,Sweden
+493,690,Swanage,United Kingdom
+494,653,Sevilla,Spain
+495,411,Dijon,France
+496,412,Wilno (Vilnius),Poland (Lithuania)
+497,413,"New York, NY",United States of America
+498,537,,
+499,107,"Indianapolis, IN",United States of America
+500,108,Leeds,United Kingdom
+501,109,"Middletown, CT",United States of America
+502,251,Mitcham,United Kingdom
+503,691,"Milwaukee, WI",United States of America
+504,654,Leoncin,Russian Empire (Poland)
+505,414,Gränichen,Switzerland
+506,415,"Wilmington, DE",United States of America
+507,416,"New York, NY",United States of America
+508,538,Mit Abu al-Kawm,Egypt
+509,539,Brest Litovsk,Russian Empire (Belarus)
+510,110,Kronshtadt,Russian Empire (Russia)
+511,111,Munich,Germany
+512,112,"Houston, TX",United States of America
+513,252,London,United Kingdom
+514,253,Berlin,Germany
+515,692,"Arlington, SD",United States of America
+516,693,Castries,British West Indies (Saint Lucia)
+517,655,Iráklion,Crete (Greece)
+518,417,Johannesburg,South Africa
+519,418,Newark,United Kingdom
+520,540,Uskup (Skopje),Ottoman Empire (Republic of Macedonia)
+521,113,"New York, NY",United States of America
+522,114,Jhang Maghi&#257;na,India (Pakistan)
+523,114,Jhang Maghi&#257;na,India (Pakistan)
+524,115,"New York, NY",United States of America
+525,222,Rendcombe,United Kingdom
+526,254,"New York, NY",United States of America
+527,255,"Boston, MA",United States of America
+528,694,"Omaha, NE",United States of America
+529,657,&#346;eteniai,Russian Empire (Lithuania)
+530,419,Caracas,Venezuela
+531,420,Toulouse,France
+532,421,"Bradford, MA",United States of America
+533,541,Buenos Aires,Argentina
+534,116,"Chicago, IL",United States of America
+535,117,"Merriman, NE",United States of America
+536,257,Nara,Japan
+537,258,Zloczov,Poland (Ukraine)
+538,695,"Champaign, IL",United States of America
+539,658,Ruse,Bulgaria
+540,422,"Hartford, CT",United States of America
+541,423,"Windsor, ON",Canada
+542,424,Uppsala,Sweden
+543,515,,
+544,118,Dordrecht,Netherlands
+545,119,"Mount Verno, NY",United States of America
+546,120,Lund,Sweden
+547,259,Zelvas,Lithuania
+548,696,"Renton, WA",United States of America
+549,659,Aracataca,Colombia
+550,425,Stockholm,Sweden
+551,426,Halmstad,Sweden
+552,427,Tardebigg,United Kingdom
+553,543,Uppsala,Sweden
+554,544,Zamora,Mexico
+555,121,"Waltham, MA",United States of America
+556,260,Neudorf,Canada
+557,697,Calais,France
+558,660,St. Columb Minor,United Kingdom
+559,428,"Hartford, CT",United States of America
+560,545,Popowo,Poland
+561,122,Lahore,India (Pakistan)
+562,123,"Pittsburgh, PA",United States of America
+563,261,"Fort Worth, TX",United States of America
+564,698,London,United Kingdom
+565,661,Prague,Austria-Hungary (Czech Republic)
+566,429,London,United Kingdom
+567,430,Munich,Germany
+568,431,Bahia Blanca,Argentina
+569,546,Klerksdorp,South Africa
+570,124,Gorizia,Italy
+571,125,the Hague,Netherlands
+572,262,"New York, NY",United States of America
+573,263,"New York, NY",United States of America
+574,699,Rome,Italy
+575,662,Tananarive (Antananarivo),Madagascar
+576,432,"New York, NY",United States of America
+577,433,"Sumter, SC",United States of America
+578,547,,
+579,126,Schroda,German-occupied Poland (Poland)
+580,264,"San José, CA",United States of America
+581,265,Hsinchu,Taiwan
+582,266,Berlin,Germany
+583,700,"Murfreesboro, TN",United States of America
+584,663,Abeokuta,Nigeria
+585,434,"Brooklyn, NY",United States of America
+586,435,Turin,Italy
+587,548,Sighet,Romania
+588,127,Heidelberg,Germany
+589,128,Frankfurt-on-the-Main,West Germany (Germany)
+590,129,Buchs,Switzerland
+591,267,"Chester, VT",United States of America
+592,268,Rosheim,France
+593,268,Rosheim,France
+594,269,Pusan,Korea (South Korea)
+595,701,"Brooklyn, NY",United States of America
+596,664,Leningrad (Saint Petersburg),Union of Soviet Socialist Republics (Russia)
+597,436,Nagoya,Japan
+598,549,Heredia,Costa Rica
+599,130,Neuenkirchen,West Germany (Germany)
+600,131,Basel,Switzerland
+601,270,Zusamaltheim,Germany
+602,270,Zusamaltheim,Germany
+603,271,Munich,Germany
+604,272,Ludwigsburg,West Germany (Germany)
+605,702,Paris,France
+606,665,Cairo,Egypt
+607,437,Uddingston,Scotland
+608,438,"New York, NY",United States of America
+609,439,"Hoquiam, WA",United States of America
+610,550,,
+611,132,"New York, NY",United States of America
+612,133,"New York, NY",United States of America
+613,134,Bad Kissingen,Germany
+614,273,Montreal,Canada
+615,274,"Chicago, IL",United States of America
+616,703,Skedsmo,Norway
+617,666,Iria Flavia,Spain
+618,440,"York, PA",United States of America
+619,441,"Oceanside, NY",United States of America
+620,551,Taktser,Tibet (People's Republic of China)
+621,135,"Washington, DC",United States of America
+622,136,Görlitz,Prussia (Germany)
+623,137,Lorenzkirch,Germany
+624,275,"Methuen, MA",United States of America
+625,704,"Chicago, IL",United States of America
+626,705,"Boston, MA",United States of America
+627,706,"Boston, MA",United States of America
+628,667,Mexico City,Mexico
+629,442,"Milford, MA",United States of America
+630,443,"Mart, TX",United States of America
+631,552,Privolnoye,Union of Soviet Socialist Republics (Russia)
+632,138,"Chicago, IL",United States of America
+633,139,"Boston, MA",United States of America
+634,140,"Medicine Hat, Alberta",Canada
+635,276,Winterthur,Switzerland
+636,707,Willesden,United Kingdom
+637,668,Springs,South Africa
+638,444,Landsberg,Germany
+639,445,Stuttgart,Germany
+640,553,Rangoon (Yangon),Burma (Myanmar)
+641,141,Paris,France
+642,277,Montreal,Canada
+643,708,"Pottsville, PA",United States of America
+644,669,Castries,Saint Lucia
+645,446,Shanghai,China
+646,447,"Lansing, IA",United States of America
+647,554,Aldea Chimel,Guatemala
+648,142,Dabrovica,Poland
+649,142,Dabrovica,Poland
+650,278,"Lenoir, NC",United States of America
+651,279,Blackpool,United Kingdom
+652,709,"New York, NY",United States of America
+653,710,"Cambridge, MA",United States of America
+654,670,"Lorain, OH",United States of America
+655,448,Derby,United Kingdom
+656,449,"Falmouth, KY",United States of America
+657,555,Qunu,South Africa
+658,556,Johannesburg,South Africa
+659,143,"New York, NY",United States of America
+660,144,"Philadelphia, PA",United States of America
+661,280,Budapest,Hungary
+662,711,Budapest,Hungary
+663,712,"Bluefield, WV",United States of America
+664,713,Breslau (Wroclaw),Germany (Poland)
+665,671,Uchiko,Japan
+666,450,"New Haven, CT",United States of America
+667,451,"Baltimore, MD",United States of America
+668,557,Cairo,Egypt
+669,558,Vishneva,Poland (Belarus)
+670,559,Jerusalem,British Mandate of Palestine (Israel)
+671,145,"Lethbridge, Alberta",Canada
+672,146,"Pittsburgh, PA",United States of America
+673,281,Amsterdam,Netherlands
+674,282,Mexico City,Mexico
+675,283,"Delaware, OH",United States of America
+676,714,"Yakima, WA",United States of America
+677,672,Casteldàwson,Northern Ireland
+678,452,"Wilkes-Barre, PA",United States of America
+679,453,Magdeburg,Germany
+680,454,"South Bend, IN",United States of America
+681,560,Warsaw,Russian Empire (Poland)
+682,561,,
+683,147,"New York, NY",United States of America
+684,148,"Paterson, NJ",United States of America
+685,284,"Alice, TX",United States of America
+686,285,Wisbech,United Kingdom
+687,286,"Akron, OH",United States of America
+688,715,Minnigaff,Scotland
+689,716,"Victoria, BC",Canada
+690,673,Bnin (Kórnik),Poland
+691,455,Brisbane,Australia
+692,456,Basel,Switzerland
+693,562,Wailacama,East Timor
+694,563,Dili,East Timor
+695,149,"Rye, NY",United States of America
+696,150,"Aberdeen, WA",United States of America
+697,151,"Washington, DC",United States of America
+698,287,"Provo, UT",United States of America
+699,288,Halifax,United Kingdom
+700,289,Lemvig,Denmark
+701,717,"New York, NY",United States of America
+702,718,"Timmins, ON",Canada
+703,674,Leggiuno-Sangiano,Italy
+704,457,"Des Moines, IA",United States of America
+705,564,,
+706,565,"Putney, VT",United States of America
+707,152,"St. Louis, MO",United States of America
+708,153,Constantine,French Algeria (Algeria)
+709,153,Constantine,French Algeria (Algeria)
+710,154,"Wilkes-Barre, PA",United States of America
+711,290,Vienna,Austria
+712,291,Burnham-on-Sea,United Kingdom
+713,719,Santiniketan,India
+714,675,Azinhaga,Portugal
+715,458,"Charleston, SC",United States of America
+716,459,"Brooklyn, NY",United States of America
+717,460,"Whiting, IN",United States of America
+718,566,Londonderry,Northern Ireland
+719,567,Belfast,Northern Ireland
+720,155,"Visalia, CA",United States of America
+721,156,Frankfurt-on-the-Main,West Germany (Germany)
+722,157,Henan,China
+723,292,Damanhur,Egypt
+724,720,"Kingston, ON",Canada
+725,676,Danzig (Gdansk),Free City of Danzig (Poland)
+726,461,Waltersdorf (Niegoslawice),Germany (Poland)
+727,461,Waltersdorf (Niegoslawice),Germany (Poland)
+728,568,,
+729,158,Den Helder,Netherlands
+730,159,Waalwijk,Netherlands
+731,729,"Sioux City, IA",United States of America
+732,730,Masterton,New Zealand
+733,731,Tokyo,Japan
+734,732,"Chicago, IL",United States of America
+735,733,"Raleigh, NC",United States of America
+736,734,Ganzhou,China
+737,722,Uppsala,Sweden
+738,723,"New York, NY",United States of America
+739,724,Vienna,Austria
+740,725,Mokpo,Korea (South Korea)
+741,726,"Vitebsk, Belorussia",Union of Soviet Socialist Republics (Belarus)
+742,727,Weimar,Germany
+743,728,"Jefferson City, MO",United States of America
+744,741,"Taunton, MA",United States of America
+745,742,Kobe,Japan
+746,743,"Philadelphia, PA",United States of America
+747,744,"New Haven, CT",United States of America
+748,745,"Montclair, NJ",United States of America
+749,746,"Gary, IN",United States of America
+750,747,,Trinidad
+751,735,"Los Angeles, CA",United States of America
+752,736,Neston,United Kingdom
+753,737,Norwich,United Kingdom
+754,748,,
+755,749,Kumasi,Gold Coast (Ghana)
+756,738,"Palo Alto, CA",United States of America
+757,739,Heidelberg,West Germany (Germany)
+758,740,"Corvallis, OR",United States of America
+759,756,"New York, NY",United States of America
+760,757,Toyama City,Japan
+761,758,Aarberg,Switzerland
+762,758,Aarberg,Switzerland
+763,759,Tel Aviv,British Mandate of Palestine (Israel)
+764,760,"Wichita, KS",United States of America
+765,761,Budapest,Hungary
+766,750,Germiston,South Africa
+767,751,"Chicago, IL",United States of America
+768,752,Cambridge,United Kingdom
+769,762,"Plains, GA",United States of America
+770,753,"Washington, DC",United States of America
+771,754,Toyohashi,Japan
+772,755,Genoa,Italy
+773,769,"Northfield, MN",United States of America
+774,770,"Burlington, MA",United States of America
+775,770,"Burlington, MA",United States of America
+776,771,"Syracuse, NY",United States of America
+777,772,Swansea,United Kingdom
+778,763,Cape Town,South Africa
+779,764,"Sidney, OH",United States of America
+780,765,London,United Kingdom
+781,773,Hamadan,Iran
+782,766,Moscow,Union of Soviet Socialist Republics (Russia)
+783,767,Moscow,Russia
+784,768,London,United Kingdom
+785,779,Haifa,British Protectorate of Palestine (Israel)
+786,780,Karcag,Hungary
+787,781,"Brooklyn, NY",United States of America
+788,786,Gjesdal,Norway
+789,786,Gjesdal,Norway
+790,787,"Glens Falls, NY",United States of America
+791,787,"Glens Falls, NY",United States of America
+792,782,Mürzzuschlag,Austria
+793,774,"New York, NY",United States of America
+794,775,"Seattle, WA",United States of America
+795,783,Nyeri,Kenya
+796,776,"Washington, DC",United States of America
+797,777,"New York, NY",United States of America
+798,778,"New York, NY",United States of America
+799,794,Menin,Belgium
+800,795,"Possum Trot, KY",United States of America
+801,796,"Berne, IN",United States of America
+802,799,Frankfurt-on-the-Main,Germany
+803,800,"Oakland, CA",United States of America
+804,801,London,United Kingdom
+805,789,Kalgoorlie,Australia
+806,789,Kalgoorlie,Australia
+807,790,Adelaide,Australia
+808,797,,
+809,798,Cairo,Egypt
+810,791,"New York, NY",United States of America
+811,792,"Denver, CO",United States of America
+812,792,"Denver, CO",United States of America
+813,793,Heidelberg,Germany
+814,793,Heidelberg,Germany
+815,806,"St. Louis, MO",United States of America
+816,807,"Evanston, IL",United States of America
+817,808,Istanbul,Turkey
+818,802,"Stanford, CA",United States of America
+819,803,"New Haven, CT",United States of America
+820,809,Chittagong,British India (Bangladesh)
+821,810,,
+822,804,"Roanoke, VA",United States of America
+823,805,"Yukon, FL",United States of America
+824,816,Bad Cannstatt,Germany
+825,820,Moscow,Russia
+826,821,"New York, NY",United States of America
+827,822,"Boston, MA",United States of America
+828,817,Kermanshah,Persia (Iran)
+829,811,Verona,Italy
+830,811,Verona,Italy
+831,812,Stroud,United Kingdom
+832,813,Halifax,United Kingdom
+833,818,,
+834,819,"Washington, DC",United States of America
+835,814,Carcassonne,France
+836,814,Carcassonne,France
+837,815,Plzen,Czechoslovakia (Czech Republic)
+838,829,Kyoto,Japan
+839,829,Kyoto,Japan
+840,830,"Chicago, IL",United States of America
+841,831,"New York, NY",United States of America
+842,831,"New York, NY",United States of America
+843,834,"New York, NY",United States of America
+844,832,Nice,France
+845,823,Gelsenkirchen,Germany
+846,824,Paris,France
+847,825,Chabris,France
+848,833,Viipuri (Vyborg),Finland
+849,826,Tokyo,Japan
+850,827,Nagoya,Japan
+851,828,Nagoya,Japan
+852,828,Nagoya,Japan
+853,841,"Chidambaram, Tamil Nadu",India
+854,842,"Milwaukee, WI",United States of America
+855,842,"Milwaukee, WI",United States of America
+856,843,Jerusalem,British Mandate of Palestine (Israel)
+857,846,"Los Angeles, CA",United States of America
+858,846,"Los Angeles, CA",United States of America
+859,847,"Superior, WI",United States of America
+860,844,"Nitzkydorf, Banat",Romania
+861,835,"Hobart, Tasmania",Australia
+862,836,"San Diego, CA",United States of America
+863,837,London,United Kingdom
+864,837,London,United Kingdom
+865,837,London,United Kingdom
+866,845,"Honolulu, HI",United States of America
+867,838,Shanghai,China
+868,838,Shanghai,China
+869,839,"Amherst, NS",Canada
+870,840,"White Plains, NY",United States of America
+871,851,"Springfield, MA",United States of America
+872,852,Changchun,China
+873,853,Mukawa,Japan
+874,856,"New York, NY",United States of America
+875,857,"Enterprise, OR",United States of America
+876,857,"Enterprise, OR",United States of America
+877,858,Nicosia,Cyprus
+878,854,Arequipa,Peru
+879,848,Batley,United Kingdom
+880,855,,China
+881,849,Sochi,Russia
+882,850,Nizhny Tagil,Russia
+883,867,Tel Aviv,British Mandate of Palestine (Israel)
+884,872,"Pasadena, CA",United States of America
+885,873,"Washington, DC",United States of America
+886,868,Stockholm,Sweden
+887,861,"Chicago, IL",United States of America
+888,861,"Chicago, IL",United States of America
+889,862,Echternach,Luxembourg
+890,863,Montreal,Canada
+891,869,Monrovia,Liberia
+892,870,Monrovia,Liberia
+893,871,Ta'izz,Yemen
+894,864,"Champaign-Urbana, IL",United States of America
+895,864,"Champaign-Urbana, IL",United States of America
+896,865,"Missoula, MT",United States of America
+897,866,"Washington, DC",United States of America
+898,866,"Washington, DC",United States of America
+899,878,"New York, NY",United States of America
+900,878,"New York, NY",United States of America
+901,879,"Little Falls, MN",United States of America
+902,882,"New York, NY",United States of America
+903,882,"New York, NY",United States of America
+904,883,"Cambridge, MA",United States of America
+905,880,Gaomi,China
+906,874,Dippenhall,United Kingdom
+907,875,Osaka,Japan
+908,875,Osaka,Japan
+909,881,,
+910,876,Casablanca,Morocco
+911,876,Casablanca,Morocco
+912,877,"Milwaukee, WI",United States of America
+913,877,"Milwaukee, WI",United States of America
+914,889,Vienna,Austria
+915,889,Vienna,Austria
+916,890,Pretoria,South Africa
+917,891,Kibbutz Sde-Nahum,British Mandate of Palestine (Israel)
+918,894,"Boston, MA",United States of America
+919,895,"Urbana, IL",United States of America
+920,896,"Detroit, MI",United States of America
+921,892,Wingham,Canada
+922,884,"Haverhill, MA",United States of America
+923,885,"St. Paul, MN",United States of America
+924,885,"St. Paul, MN",United States of America
+925,886,Göttingen,Germany
+926,886,Göttingen,Germany
+927,893,,
+928,887,Etterbeek,Belgium
+929,888,Newcastle upon Tyne,United Kingdom
+930,909,"Ann Arbor, MI",United States of America
+931,910,Arad,Romania
+932,910,Arad,Romania
+933,911,"Pleasanton, CA",United States of America
+934,915,Troyes,France
+935,912,Paris,France
+936,903,"New York, NY",United States of America
+937,904,Fosnavåg,Norway
+938,905,Ålesund,Norway
+939,913,Vidisha,India
+940,914,Mingora,Pakistan
+941,906,Chiran,Japan
+942,906,Chiran,Japan
+943,907,Hamamatsu,Japan
+944,908,Ikata,Japan
+945,921,Stockholm,Sweden
+946,921,Stockholm,Sweden
+947,922,"Raton, NM",United States of America
+948,922,"Raton, NM",United States of America
+949,923,Savur,Turkey
+950,926,Edinburgh,United Kingdom
+951,924,Ivano-Frankivsk,Ukraine
+952,916,Ramelton,Ireland
+953,917,Yamanashi Prefecture,Japan
+954,918,Zhejiang Ningbo,China
+955,925,,
+956,919,Higashimatsuyama,Japan
+957,920,Sydney,Canada
+958,931,Paris,France
+959,932,Edinburgh,United Kingdom
+960,933,Barger-Compascuum,Netherlands
+961,935,London,United Kingdom
+962,936,Helsinki,Finland
+963,937,"Duluth, MN",United States of America
+964,927,Fukuoka,Japan
+965,934,Bogotá,Colombia
+966,928,Bearsden,United Kingdom
+967,929,London,United Kingdom
+968,930,Aberdeen,United Kingdom
