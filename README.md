@@ -1,5 +1,3 @@
-<p align="left"><img src="https://cdn-images-1.medium.com/max/184/1*2GDcaeYIx_bQAZLxWM4PsQ@2x.png"></p>
-
 # __NOBEL PRIZES (1901-2016)__
 
 ![Image](https://github.com/ih-datapt-mad/ih_datamadpt0923_project_m2/blob/main/images/visuals.jpg)
@@ -20,6 +18,8 @@ Contrasting the number of prizes awarded to individuals against those granted to
 - Supporting Organizations:
 Distinguishing between prizes awarded to individuals supported by organizations and those bestowed independently.
 
+![nobel4](https://github.com/silviluliuma/ih_datamadpt0923_project_m2/assets/138609959/c2bd6dca-29fe-436a-a9d4-d650b62be2c2)
+
 ## GENDER & AGE
 
 - Number of Prizes by Sex:
@@ -34,6 +34,8 @@ Analyzing the age of laureates based on gender and across different years.
 - Age of Winners by Category and Sex:
 Examining age trends concerning specific prize categories and gender.
 
+![nobel2](https://github.com/silviluliuma/ih_datamadpt0923_project_m2/assets/138609959/f0b4c126-f3f1-4438-90fa-662fa4a36062)
+
 ## DEVELOPMENT INDICATORS
 
 - Prizes by Country and Education Level:
@@ -44,13 +46,13 @@ Establishing a connection between the number of prizes received by countries and
 
 The PowerBI file accompanying this repository allows for further nuanced analysis, facilitated by a range of filters. This comprehensive dataset offers a robust foundation for exploring and drawing insights from the evolution of Nobel Prizes over the specified timeframe.
 
-![gif_nobel](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fnobel-prize-laureate%3Fsort%3Drelevant&psig=AOvVaw0LoT0gCPq9_jA-GRmL3Bqr&ust=1705668147340000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNj6hJP75oMDFQAAAAAdAAAAABAD)
-
 ---
 
 ## **CONTACT:**
 
 For further information or any commentary feel free to contact me at: valeromsilvia@gmail.com
+
+![obama_nobel](https://github.com/silviluliuma/ih_datamadpt0923_project_m2/assets/138609959/c41b02a9-9e2d-4b01-b64d-f518017f4581)
 
 ---
 
